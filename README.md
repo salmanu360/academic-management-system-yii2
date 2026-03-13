@@ -309,3 +309,10 @@ vendor/bin/codecept run functional,unit -- --coverage-html --coverage-xml
 ```
 
 You can see code coverage output under the `tests/_output` directory.
+
+```
+
+Author
+Muhammad Suliman Senior Full-Stack Engineer Sundsvall, Sweden
+
+Email: salman.u360@gmail.com
