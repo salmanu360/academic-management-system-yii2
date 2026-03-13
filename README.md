@@ -1,3 +1,122 @@
+```markdown
+# Academic Management System (Yii2)
+
+A web-based **Academic Management System** developed using the **Yii2 PHP Framework**.  
+This platform helps schools and colleges efficiently manage students, teachers, courses, attendance, and administrative operations.
+
+The system is built following the **MVC architecture** provided by Yii2, ensuring scalability, maintainability, and performance.
+
+---
+
+## Features
+
+- Student Management
+- Teacher Management
+- Course Management
+- Attendance Tracking
+- Examination & Result Management
+- User Authentication (Login/Logout)
+- Admin Dashboard
+- Role-based Access Control
+- Contact System
+
+---
+
+## Technologies Used
+
+- PHP
+- Yii2 Framework
+- MySQL
+- Bootstrap
+- jQuery
+- HTML5 / CSS3
+- MVC Architecture
+
+---
+
+## Project Structure
+
+```
+
+assets/             contains assets definition
+commands/           contains console commands
+config/             contains application configurations
+controllers/        contains controller classes
+mail/               contains email view files
+models/             contains model classes
+runtime/            contains runtime generated files
+tests/              contains test cases
+vendor/             contains third-party packages
+views/              contains application views
+web/                contains entry script and web resources
+
+````
+
+---
+
+## Requirements
+
+- PHP >= 5.4
+- Composer
+- MySQL
+- Apache / Nginx
+
+---
+
+## Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/academic-management-system-yii2.git
+````
+
+### 2. Install Dependencies
+
+```bash
+composer install
+```
+
+### 3. Configure Database
+
+Edit the file:
+
+```
+config/db.php
+```
+
+Example configuration:
+
+```php
+return [
+'class' => 'yii\db\Connection',
+'dsn' => 'mysql:host=localhost;dbname=academic_system',
+'username' => 'root',
+'password' => '',
+'charset' => 'utf8',
+];
+```
+
+### 4. Run the Application
+
+Start your local server and open:
+
+```
+http://localhost/project-folder/web/
+```
+
+---
+
+## License
+
+This project is open-source and available for learning and development purposes.
+
+```
+
+```
+
+
+
 Yii 2 Basic Project Template
 ============================
 
