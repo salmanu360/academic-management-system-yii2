@@ -1,0 +1,791 @@
+a:13:{s:6:"config";s:4716:"a:5:{s:10:"phpVersion";s:6:"7.0.33";s:10:"yiiVersion";s:8:"2.0.16.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.16.1";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:2:"en";s:14:"sourceLanguage";s:5:"en_US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"7.0.33";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:19:{s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dynagrid";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:67:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-faker";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.9.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:70:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-krajee-base/src";}}s:23:"kartik-v/yii2-popover-x";a:3:{s:4:"name";s:23:"kartik-v/yii2-popover-x";s:7:"version";s:7:"1.3.4.0";s:5:"alias";a:1:{s:15:"@kartik/popover";s:64:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-popover-x";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:65:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dialog/src";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.2.9.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-grid/src";}}s:22:"johnitvn/yii2-ajaxcrud";a:4:{s:4:"name";s:22:"johnitvn/yii2-ajaxcrud";s:7:"version";s:7:"2.1.3.0";s:5:"alias";a:1:{s:18:"@johnitvn/ajaxcrud";s:67:"/home/onnviiod/public_html/alhuda/vendor/johnitvn/yii2-ajaxcrud/src";}s:9:"bootstrap";s:27:"johnitvn\ajaxcrud\Bootstrap";}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.14.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:63:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-debug/src";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:61:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-gii/src";}}s:22:"kartik-v/yii2-editable";a:3:{s:4:"name";s:22:"kartik-v/yii2-editable";s:7:"version";s:7:"1.7.8.0";s:5:"alias";a:1:{s:16:"@kartik/editable";s:67:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-editable/src";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-mpdf";}}s:18:"robregonm/yii2-pdf";a:3:{s:4:"name";s:18:"robregonm/yii2-pdf";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@robregonm/pdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/robregonm/yii2-pdf";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-depdrop/src";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-select2/src";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.6.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datepicker/src";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.7.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:80:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datetimepicker/src";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.5.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-activeform/src";}}}}";s:7:"request";s:4352:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:500;s:14:"requestHeaders";a:9:{s:4:"host";s:12:"33344450.com";s:10:"connection";s:10:"keep-alive";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:101:"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36";s:6:"accept";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:7:"referer";s:53:"http://33344450.com/alhuda/web/reports/general-report";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:35:"en-GB,en-US;q=0.9,en;q=0.8,ur;q=0.7";s:6:"cookie";s:210:"PHPSESSID=fp6uu1ue5k1k7jsg2fuj2oqlb5; _csrf=2b9731dd6260214c20da5ef7227b021a2dec830cee91ac3393e80bbea17c989ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZnClLTQ1anDU3-Yp9gIktU3ouZ9Ctyzg%22%3B%7D";}s:15:"responseHeaders";a:8:{s:19:"Content-Description";s:13:"File Transfer";s:25:"Content-Transfer-Encoding";s:6:"binary";s:13:"Cache-Control";s:34:"public, must-revalidate, max-age=0";s:6:"Pragma";s:6:"public";s:7:"Expires";s:29:"Sat, 26 Jul 1997 05:00:00 GMT";s:13:"Last-Modified";s:29:"Sat, 05 Sep 2020 04:36:32 GMT";s:12:"Content-Type";a:4:{i:0;s:26:"application/force-download";i:1;s:24:"application/octet-stream";i:2;s:20:"application/download";i:3;s:15:"application/pdf";}s:19:"Content-disposition";s:76:"attachment; filename="Previous-student-class students-report-05-09-2020.pdf"";}s:5:"route";s:37:"reports/leave-schol-class-student-pdf";s:6:"action";s:68:"app\controllers\ReportsController::actionLeaveScholClassStudentPdf()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:35:{s:4:"PATH";s:28:"/usr/local/bin:/bin:/usr/bin";s:11:"HTTP_ACCEPT";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"en-GB,en-US;q=0.9,en;q=0.8,ur;q=0.7";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_COOKIE";s:210:"PHPSESSID=fp6uu1ue5k1k7jsg2fuj2oqlb5; _csrf=2b9731dd6260214c20da5ef7227b021a2dec830cee91ac3393e80bbea17c989ea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22ZnClLTQ1anDU3-Yp9gIktU3ouZ9Ctyzg%22%3B%7D";s:9:"HTTP_HOST";s:12:"33344450.com";s:12:"HTTP_REFERER";s:53:"http://33344450.com/alhuda/web/reports/general-report";s:15:"HTTP_USER_AGENT";s:101:"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:13:"DOCUMENT_ROOT";s:26:"/home/onnviiod/public_html";s:11:"REMOTE_ADDR";s:12:"39.33.54.199";s:11:"REMOTE_PORT";s:5:"54320";s:11:"SERVER_ADDR";s:14:"94.130.162.223";s:11:"SERVER_NAME";s:12:"33344450.com";s:12:"SERVER_ADMIN";s:22:"webmaster@33344450.com";s:11:"SERVER_PORT";s:2:"80";s:11:"REQUEST_URI";s:68:"/alhuda/web/reports/leave-schol-class-student-pdf?years=2020&clas=12";s:12:"REDIRECT_URL";s:49:"/alhuda/web/reports/leave-schol-class-student-pdf";s:21:"REDIRECT_QUERY_STRING";s:18:"years=2020&clas=12";s:15:"REDIRECT_STATUS";s:3:"200";s:15:"SCRIPT_FILENAME";s:47:"/home/onnviiod/public_html/alhuda/web/index.php";s:12:"QUERY_STRING";s:18:"years=2020&clas=12";s:10:"SCRIPT_URI";s:68:"http://33344450.com/alhuda/web/reports/leave-schol-class-student-pdf";s:10:"SCRIPT_URL";s:49:"/alhuda/web/reports/leave-schol-class-student-pdf";s:11:"SCRIPT_NAME";s:21:"/alhuda/web/index.php";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:15:"SERVER_SOFTWARE";s:9:"LiteSpeed";s:14:"REQUEST_METHOD";s:3:"GET";s:9:"X-LSCACHE";s:2:"on";s:8:"PHP_SELF";s:21:"/alhuda/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1599280591.8922770023345947265625;s:12:"REQUEST_TIME";i:1599280591;s:4:"argv";a:1:{i:0;s:18:"years=2020&clas=12";}s:4:"argc";i:1;}s:3:"GET";a:2:{s:5:"years";s:4:"2020";s:4:"clas";s:2:"12";}s:4:"POST";a:0:{}s:6:"COOKIE";a:2:{s:9:"PHPSESSID";s:26:"fp6uu1ue5k1k7jsg2fuj2oqlb5";s:5:"_csrf";s:130:"2b9731dd6260214c20da5ef7227b021a2dec830cee91ac3393e80bbea17c989ea:2:{i:0;s:5:"_csrf";i:1;s:32:"ZnClLTQ1anDU3-Yp9gIktU3ouZ9Ctyzg";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:3:{s:7:"__flash";a:0:{}s:11:"__returnUrl";s:8:"/alhuda/";s:4:"__id";i:1573;}}";s:3:"log";s:28946:"a:1:{s:8:"messages";a:51:{i:0;a:6:{i:0;s:55:"Bootstrap with johnitvn\ajaxcrud\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1599280591.902699947357177734375;i:4;a:0:{}i:5;i:2532760;}i:1;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1599280591.9027140140533447265625;i:4;a:0:{}i:5;i:2533640;}i:2;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1599280591.9036290645599365234375;i:4;a:0:{}i:5;i:2653576;}i:3;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1599280591.903646945953369140625;i:4;a:0:{}i:5;i:2654632;}i:4;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1599280591.911921977996826171875;i:4;a:0:{}i:5;i:4262768;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1599280591 AND `id`='fp6uu1ue5k1k7jsg2fuj2oqlb5'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9138278961181640625;i:4;a:0:{}i:5;i:4459160;}i:10;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1599280591.9140479564666748046875;i:4;a:0:{}i:5;i:4453136;}i:11;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.917975902557373046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5237888;}i:14;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9188339710235595703125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5279200;}i:17;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9196059703826904296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5298024;}i:20;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1599280591.9204349517822265625;i:4;a:0:{}i:5;i:5427320;}i:21;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1599280591.9222409725189208984375;i:4;a:0:{}i:5;i:5706048;}i:29;a:6:{i:0;s:56:"Route requested: 'reports/leave-schol-class-student-pdf'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1599280591.9232490062713623046875;i:4;a:0:{}i:5;i:5854008;}i:30;a:6:{i:0;s:51:"Route to run: reports/leave-schol-class-student-pdf";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1599280591.927340030670166015625;i:4;a:0:{}i:5;i:6666664;}i:31;a:6:{i:0;s:84:"Running action: app\controllers\ReportsController::actionLeaveScholClassStudentPdf()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1599280591.9275500774383544921875;i:4;a:0:{}i:5;i:6686360;}i:32;a:6:{i:0;s:93:"SELECT * FROM `student_leave_info` WHERE (`class_id`='12') AND (`created_date` LIKE '%2020%')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9281098842620849609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6756728;}i:35;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `student_leave_info`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.92837810516357421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6768456;}i:38;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_leave_info' AND kcu.table_name = 'student_leave_info'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.928822040557861328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6783264;}i:41;a:6:{i:0;s:113:"Rendering view file: /home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1599280591.929749965667724609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:6920592;}i:42;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9306919574737548828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7132632;}i:45;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93364810943603515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7145800;}i:48;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93406009674072265625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7161584;}i:51;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9343769550323486328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7162776;}i:54;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93455600738525390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7176376;}i:57;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9350020885467529296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7197656;}i:60;a:6:{i:0;s:48:"SELECT * FROM `student_info` WHERE `stu_id`=1630";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9358589649200439453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7384000;}i:63;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9360949993133544921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7399416;}i:66;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93678188323974609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7436736;}i:69;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=1724";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9371159076690673828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7439728;}i:72;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1630";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.937550067901611328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7495392;}i:75;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9377601146697998046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7510720;}i:78;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.938334941864013671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7538776;}i:81;a:6:{i:0;s:45:"SELECT * FROM `ref_class` WHERE `class_id`=12";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9387810230255126953125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7569344;}i:84;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_class`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93894195556640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7580080;}i:87;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_class' AND kcu.table_name = 'ref_class'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9393060207366943359375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7594648;}i:90;a:6:{i:0;s:49:"SELECT * FROM `ref_section` WHERE `section_id`=24";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9397370815277099609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7630864;}i:93;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ref_section`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.939898967742919921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7641744;}i:96;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_section' AND kcu.table_name = 'ref_section'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9402840137481689453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7657552;}i:99;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.54.199";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1599280591.9405748844146728515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7632056;}i:100;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.54.199";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1599280592.14879894256591796875;i:4;a:0:{}i:5;i:18600664;}i:101;a:6:{i:0;s:540:"yii\web\HeadersAlreadySentException: Headers already sent in /home/onnviiod/public_html/alhuda/vendor/mpdf/mpdf/mpdf.php on line 9437. in /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/onnviiod/public_html/alhuda/web/index.php(11): yii\base\Application->run()
+#3 {main}";i:1;i:1;i:2;s:35:"yii\web\HeadersAlreadySentException";i:3;d:1599280592.1489140987396240234375;i:4;a:0:{}i:5;i:18606088;}i:102;a:6:{i:0;s:107:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/exception.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1599280592.148972034454345703125;i:4;a:0:{}i:5;i:18605024;}i:103;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1599280592.1493690013885498046875;i:4;a:0:{}i:5;i:18859896;}i:104;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1599280592.1496050357818603515625;i:4;a:0:{}i:5;i:18865840;}i:105;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1599280592.149797916412353515625;i:4;a:0:{}i:5;i:18808680;}i:106;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1599280592.149940013885498046875;i:4;a:0:{}i:5;i:18728528;}i:107;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.54.199";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1599280592.150373935699462890625;i:4;a:0:{}i:5;i:18805152;}i:108;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.54.199";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1599280592.1505219936370849609375;i:4;a:0:{}i:5;i:18762624;}i:109;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.1510269641876220703125;i:4;a:0:{}i:5;i:18545720;}i:112;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.2469348907470703125;i:4;a:0:{}i:5;i:18553520;}i:115;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, 'fp6uu1ue5k1k7jsg2fuj2oqlb5', 1600490192) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1599280592.2473208904266357421875;i:4;a:0:{}i:5;i:18627976;}}}";s:9:"profiling";s:47385:"a:3:{s:6:"memory";i:21162600;s:4:"time";d:0.5083329677581787109375;s:8:"messages";a:60:{i:5;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1599280591.9119510650634765625;i:4;a:0:{}i:5;i:4263200;}i:6;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1599280591.9129350185394287109375;i:4;a:0:{}i:5;i:4334064;}i:8;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1599280591 AND `id`='fp6uu1ue5k1k7jsg2fuj2oqlb5'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.91386699676513671875;i:4;a:0:{}i:5;i:4459752;}i:9;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1599280591 AND `id`='fp6uu1ue5k1k7jsg2fuj2oqlb5'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9140179157257080078125;i:4;a:0:{}i:5;i:4460656;}i:12;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9180080890655517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5239304;}i:13;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9184510707855224609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5262464;}i:15;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9188640117645263671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5281864;}i:16;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9190709590911865234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5283584;}i:18;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9196279048919677734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5298112;}i:19;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.919784069061279296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5303208;}i:33;a:6:{i:0;s:93:"SELECT * FROM `student_leave_info` WHERE (`class_id`='12') AND (`created_date` LIKE '%2020%')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9281280040740966796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6759472;}i:34;a:6:{i:0;s:93:"SELECT * FROM `student_leave_info` WHERE (`class_id`='12') AND (`created_date` LIKE '%2020%')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.928330898284912109375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6763040;}i:36;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `student_leave_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.928392887115478515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6769912;}i:37;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `student_leave_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9287319183349609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6782336;}i:39;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_leave_info' AND kcu.table_name = 'student_leave_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9288380146026611328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6785864;}i:40;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_leave_info' AND kcu.table_name = 'student_leave_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.929007053375244140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6787584;}i:43;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9307138919830322265625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7135352;}i:44;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9335849285125732421875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7138840;}i:46;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9336650371551513671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7148384;}i:47;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.933979034423828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7156720;}i:49;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93410205841064453125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7165336;}i:50;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9342739582061767578125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7168208;}i:52;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.934391021728515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7165472;}i:53;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.934513092041015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7170424;}i:55;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9345700740814208984375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7178944;}i:56;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9348850250244140625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7198624;}i:58;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.935018062591552734375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7201408;}i:59;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93517398834228515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7204280;}i:61;a:6:{i:0;s:48:"SELECT * FROM `student_info` WHERE `stu_id`=1630";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9358780384063720703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7386152;}i:62;a:6:{i:0;s:48:"SELECT * FROM `student_info` WHERE `stu_id`=1630";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.936050891876220703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7395088;}i:64;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9361131191253662109375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7401424;}i:65;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93657588958740234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7451928;}i:67;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.936810016632080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7439912;}i:68;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9369790554046630859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7442208;}i:70;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=1724";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93713092803955078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7441848;}i:71;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=1724";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9372599124908447265625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7447304;}i:73;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1630";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9375660419464111328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7498144;}i:74;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1630";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9377191066741943359375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7505264;}i:76;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.937777042388916015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7513328;}i:77;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9381840229034423828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7548920;}i:79;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9383571147918701171875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7542528;}i:80;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9385259151458740234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7545400;}i:82;a:6:{i:0;s:45:"SELECT * FROM `ref_class` WHERE `class_id`=12";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93879795074462890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7571488;}i:83;a:6:{i:0;s:45:"SELECT * FROM `ref_class` WHERE `class_id`=12";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93890094757080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7574336;}i:85;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_class`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93896007537841796875;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7582088;}i:86;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_class`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9392349720001220703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7589968;}i:88;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_class' AND kcu.table_name = 'ref_class'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9393270015716552734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7597824;}i:89;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_class' AND kcu.table_name = 'ref_class'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9394969940185546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7600120;}i:91;a:6:{i:0;s:49:"SELECT * FROM `ref_section` WHERE `section_id`=24";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.939753055572509765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7633016;}i:92;a:6:{i:0;s:49:"SELECT * FROM `ref_section` WHERE `section_id`=24";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.939857959747314453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7636120;}i:94;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ref_section`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.939917087554931640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7643752;}i:95;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ref_section`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9402000904083251953125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7654456;}i:97;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_section' AND kcu.table_name = 'ref_section'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.94030094146728515625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7660728;}i:98;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_section' AND kcu.table_name = 'ref_section'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9404659271240234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7663024;}i:110;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.1510469913482666015625;i:4;a:0:{}i:5;i:18550464;}i:111;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.246797084808349609375;i:4;a:0:{}i:5;i:18552856;}i:113;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.246952056884765625;i:4;a:0:{}i:5;i:18554744;}i:114;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.2471001148223876953125;i:4;a:0:{}i:5;i:18556376;}i:116;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, 'fp6uu1ue5k1k7jsg2fuj2oqlb5', 1600490192) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1599280592.247332096099853515625;i:4;a:0:{}i:5;i:18628176;}i:117;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, 'fp6uu1ue5k1k7jsg2fuj2oqlb5', 1600490192) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1599280592.4042720794677734375;i:4;a:0:{}i:5;i:18628616;}}}";s:2:"db";s:46934:"a:1:{s:8:"messages";a:58:{i:8;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1599280591 AND `id`='fp6uu1ue5k1k7jsg2fuj2oqlb5'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.91386699676513671875;i:4;a:0:{}i:5;i:4459752;}i:9;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1599280591 AND `id`='fp6uu1ue5k1k7jsg2fuj2oqlb5'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9140179157257080078125;i:4;a:0:{}i:5;i:4460656;}i:12;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9180080890655517578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5239304;}i:13;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9184510707855224609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5262464;}i:15;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9188640117645263671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5281864;}i:16;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9190709590911865234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5283584;}i:18;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9196279048919677734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5298112;}i:19;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.919784069061279296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5303208;}i:33;a:6:{i:0;s:93:"SELECT * FROM `student_leave_info` WHERE (`class_id`='12') AND (`created_date` LIKE '%2020%')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9281280040740966796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6759472;}i:34;a:6:{i:0;s:93:"SELECT * FROM `student_leave_info` WHERE (`class_id`='12') AND (`created_date` LIKE '%2020%')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.928330898284912109375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6763040;}i:36;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `student_leave_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.928392887115478515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6769912;}i:37;a:6:{i:0;s:43:"SHOW FULL COLUMNS FROM `student_leave_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9287319183349609375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6782336;}i:39;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_leave_info' AND kcu.table_name = 'student_leave_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9288380146026611328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6785864;}i:40;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_leave_info' AND kcu.table_name = 'student_leave_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.929007053375244140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1361;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6787584;}i:43;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9307138919830322265625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7135352;}i:44;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9335849285125732421875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7138840;}i:46;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9336650371551513671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7148384;}i:47;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.933979034423828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7156720;}i:49;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93410205841064453125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7165336;}i:50;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9342739582061767578125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7168208;}i:52;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.934391021728515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7165472;}i:53;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.934513092041015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7170424;}i:55;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9345700740814208984375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7178944;}i:56;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9348850250244140625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7198624;}i:58;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.935018062591552734375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7201408;}i:59;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93517398834228515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:18;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7204280;}i:61;a:6:{i:0;s:48:"SELECT * FROM `student_info` WHERE `stu_id`=1630";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9358780384063720703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7386152;}i:62;a:6:{i:0;s:48:"SELECT * FROM `student_info` WHERE `stu_id`=1630";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.936050891876220703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7395088;}i:64;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9361131191253662109375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7401424;}i:65;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93657588958740234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7451928;}i:67;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.936810016632080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7439912;}i:68;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9369790554046630859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7442208;}i:70;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=1724";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93713092803955078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7441848;}i:71;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=1724";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9372599124908447265625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:47;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7447304;}i:73;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1630";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9375660419464111328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7498144;}i:74;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1630";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9377191066741943359375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7505264;}i:76;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.937777042388916015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7513328;}i:77;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9381840229034423828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7548920;}i:79;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9383571147918701171875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7542528;}i:80;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9385259151458740234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:48;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7545400;}i:82;a:6:{i:0;s:45:"SELECT * FROM `ref_class` WHERE `class_id`=12";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93879795074462890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7571488;}i:83;a:6:{i:0;s:45:"SELECT * FROM `ref_class` WHERE `class_id`=12";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93890094757080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7574336;}i:85;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_class`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.93896007537841796875;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7582088;}i:86;a:6:{i:0;s:34:"SHOW FULL COLUMNS FROM `ref_class`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9392349720001220703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7589968;}i:88;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_class' AND kcu.table_name = 'ref_class'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9393270015716552734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7597824;}i:89;a:6:{i:0;s:619:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_class' AND kcu.table_name = 'ref_class'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9394969940185546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:50;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7600120;}i:91;a:6:{i:0;s:49:"SELECT * FROM `ref_section` WHERE `section_id`=24";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.939753055572509765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7633016;}i:92;a:6:{i:0;s:49:"SELECT * FROM `ref_section` WHERE `section_id`=24";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.939857959747314453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7636120;}i:94;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ref_section`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.939917087554931640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7643752;}i:95;a:6:{i:0;s:36:"SHOW FULL COLUMNS FROM `ref_section`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9402000904083251953125;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7654456;}i:97;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_section' AND kcu.table_name = 'ref_section'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.94030094146728515625;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7660728;}i:98;a:6:{i:0;s:623:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_section' AND kcu.table_name = 'ref_section'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280591.9404659271240234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:92:"/home/onnviiod/public_html/alhuda/views/reports/statistics/leave-school-year-student-pdf.php";s:4:"line";i:52;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:1362;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7663024;}i:110;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.1510469913482666015625;i:4;a:0:{}i:5;i:18550464;}i:111;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.246797084808349609375;i:4;a:0:{}i:5;i:18552856;}i:113;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.246952056884765625;i:4;a:0:{}i:5;i:18554744;}i:114;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1599280592.2471001148223876953125;i:4;a:0:{}i:5;i:18556376;}i:116;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, 'fp6uu1ue5k1k7jsg2fuj2oqlb5', 1600490192) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1599280592.247332096099853515625;i:4;a:0:{}i:5;i:18628176;}i:117;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, 'fp6uu1ue5k1k7jsg2fuj2oqlb5', 1600490192) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1599280592.4042720794677734375;i:4;a:0:{}i:5;i:18628616;}}}";s:5:"event";s:9665:"a:52:{i:0;a:5:{s:4:"time";d:1599280591.912929058074951171875;s:4:"name";s:9:"afterOpen";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"yii\db\Connection";}i:1;a:5:{s:4:"time";d:1599280591.917377948760986328125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:2;a:5:{s:4:"time";d:1599280591.92000102996826171875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:3;a:5:{s:4:"time";d:1599280591.9200420379638671875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:4;a:5:{s:4:"time";d:1599280591.9203319549560546875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:5;a:5:{s:4:"time";d:1599280591.9229030609130859375;s:4:"name";s:13:"beforeRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:6;a:5:{s:4:"time";d:1599280591.9274361133575439453125;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:7;a:5:{s:4:"time";d:1599280591.92753696441650390625;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:33:"app\controllers\ReportsController";}i:8;a:5:{s:4:"time";d:1599280591.927651882171630859375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:9;a:5:{s:4:"time";d:1599280591.9283530712127685546875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:27:"app\models\StudentLeaveInfo";}i:10;a:5:{s:4:"time";d:1599280591.9290440082550048828125;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:27:"app\models\StudentLeaveInfo";}i:11;a:5:{s:4:"time";d:1599280591.92907810211181640625;s:4:"name";s:9:"beginPage";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:12;a:5:{s:4:"time";d:1599280591.9290840625762939453125;s:4:"name";s:9:"beginBody";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:13;a:5:{s:4:"time";d:1599280591.9297459125518798828125;s:4:"name";s:12:"beforeRender";s:5:"class";s:18:"yii\base\ViewEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:14;a:5:{s:4:"time";d:1599280591.9305489063262939453125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:15;a:5:{s:4:"time";d:1599280591.9306280612945556640625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:16;a:5:{s:4:"time";d:1599280591.933617115020751953125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:17;a:5:{s:4:"time";d:1599280591.9343140125274658203125;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:18;a:5:{s:4:"time";d:1599280591.93453502655029296875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"app\models\Branch";}i:19;a:5:{s:4:"time";d:1599280591.93521404266357421875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"app\models\Branch";}i:20;a:5:{s:4:"time";d:1599280591.9355518817901611328125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:21;a:5:{s:4:"time";d:1599280591.9360730648040771484375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:22;a:5:{s:4:"time";d:1599280591.9370338916778564453125;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:23;a:5:{s:4:"time";d:1599280591.937057971954345703125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:24;a:5:{s:4:"time";d:1599280591.9372920989990234375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:25;a:5:{s:4:"time";d:1599280591.937324047088623046875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:26;a:5:{s:4:"time";d:1599280591.937509059906005859375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:27;a:5:{s:4:"time";d:1599280591.9377400875091552734375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\models\StudentParentsInfo";}i:28;a:5:{s:4:"time";d:1599280591.9385740756988525390625;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\models\StudentParentsInfo";}i:29;a:5:{s:4:"time";d:1599280591.938724994659423828125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:30;a:5:{s:4:"time";d:1599280591.93892192840576171875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"app\models\RefClass";}i:31;a:5:{s:4:"time";d:1599280591.9395320415496826171875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"app\models\RefClass";}i:32;a:5:{s:4:"time";d:1599280591.9396851062774658203125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:33;a:5:{s:4:"time";d:1599280591.939878940582275390625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:21:"app\models\RefSection";}i:34;a:5:{s:4:"time";d:1599280591.9405019283294677734375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:21:"app\models\RefSection";}i:35;a:5:{s:4:"time";d:1599280591.940586090087890625;s:4:"name";s:7:"endBody";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:36;a:5:{s:4:"time";d:1599280591.9405920505523681640625;s:4:"name";s:7:"endPage";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:37;a:5:{s:4:"time";d:1599280592.1485860347747802734375;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:33:"app\controllers\ReportsController";}i:38;a:5:{s:4:"time";d:1599280592.1486060619354248046875;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:39;a:5:{s:4:"time";d:1599280592.1486160755157470703125;s:4:"name";s:12:"afterRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:40;a:5:{s:4:"time";d:1599280592.148622035980224609375;s:4:"name";s:10:"beforeSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:41;a:5:{s:4:"time";d:1599280592.1488130092620849609375;s:4:"name";s:12:"afterPrepare";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:42;a:5:{s:4:"time";d:1599280592.1489689350128173828125;s:4:"name";s:12:"beforeRender";s:5:"class";s:18:"yii\base\ViewEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:43;a:5:{s:4:"time";d:1599280592.14918804168701171875;s:4:"name";s:9:"beginPage";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:44;a:5:{s:4:"time";d:1599280592.1493670940399169921875;s:4:"name";s:12:"beforeRender";s:5:"class";s:18:"yii\base\ViewEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:45;a:5:{s:4:"time";d:1599280592.14960193634033203125;s:4:"name";s:12:"beforeRender";s:5:"class";s:18:"yii\base\ViewEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:46;a:5:{s:4:"time";d:1599280592.149795055389404296875;s:4:"name";s:12:"beforeRender";s:5:"class";s:18:"yii\base\ViewEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:47;a:5:{s:4:"time";d:1599280592.149938106536865234375;s:4:"name";s:12:"beforeRender";s:5:"class";s:18:"yii\base\ViewEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:48;a:5:{s:4:"time";d:1599280592.1503889560699462890625;s:4:"name";s:7:"endBody";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:49;a:5:{s:4:"time";d:1599280592.1503961086273193359375;s:4:"name";s:7:"endPage";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:12:"yii\web\View";}i:50;a:5:{s:4:"time";d:1599280592.1505091190338134765625;s:4:"name";s:10:"beforeSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:51;a:5:{s:4:"time";d:1599280592.15052890777587890625;s:4:"name";s:12:"afterPrepare";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:124:"a:3:{s:5:"start";d:1599280591.8967750072479248046875;s:3:"end";d:1599280592.4055058956146240234375;s:6:"memory";i:21162600;}";s:4:"user";s:2276:"a:5:{s:2:"id";i:1573;s:8:"identity";a:20:{s:2:"id";s:4:"1573";s:12:"fk_branch_id";s:1:"1";s:10:"first_name";s:13:"'SAJID ULLAH'";s:11:"middle_name";s:2:"''";s:9:"last_name";s:2:"''";s:8:"username";s:9:"'AMS-004'";s:5:"email";s:2:"''";s:8:"auth_key";s:34:"'KKmQiTtj8Il9gFBQqjxOE_pf5u7jZjr4'";s:13:"password_hash";s:62:"'$2y$13$346GkJy5zWFfybEc.tU6Rew.eQj/Xx46sRLPupqMoNicY24skwQlS'";s:20:"password_reset_token";s:4:"null";s:4:"pass";s:4:"null";s:6:"avatar";s:4:"null";s:6:"status";s:8:"'active'";s:10:"fk_role_id";s:1:"7";s:15:"last_ip_address";s:4:"null";s:10:"last_login";s:4:"null";s:10:"created_at";s:21:"'2018-02-19 11:24:44'";s:10:"updated_at";s:21:"'2019-04-29 09:00:07'";s:12:"name_in_urdu";s:4:"null";s:5:"Image";s:9:"'025.jpg'";}s:10:"attributes";a:20:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"ID";}i:1;a:2:{s:9:"attribute";s:12:"fk_branch_id";s:5:"label";s:9:"Branch ID";}i:2;a:2:{s:9:"attribute";s:10:"first_name";s:5:"label";s:10:"First Name";}i:3;a:2:{s:9:"attribute";s:11:"middle_name";s:5:"label";s:11:"Middle Name";}i:4;a:2:{s:9:"attribute";s:9:"last_name";s:5:"label";s:9:"Last Name";}i:5;a:2:{s:9:"attribute";s:8:"username";s:5:"label";s:24:"Student Registration No.";}i:6;a:2:{s:9:"attribute";s:5:"email";s:5:"label";s:5:"Email";}i:7;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:8;a:2:{s:9:"attribute";s:13:"password_hash";s:5:"label";s:13:"Password Hash";}i:9;a:2:{s:9:"attribute";s:20:"password_reset_token";s:5:"label";s:20:"Password Reset Token";}i:10;a:2:{s:9:"attribute";s:4:"pass";s:5:"label";s:4:"Pass";}i:11;a:2:{s:9:"attribute";s:6:"avatar";s:5:"label";s:6:"Avatar";}i:12;a:2:{s:9:"attribute";s:6:"status";s:5:"label";s:6:"Status";}i:13;a:2:{s:9:"attribute";s:10:"fk_role_id";s:5:"label";s:4:"Role";}i:14;a:2:{s:9:"attribute";s:15:"last_ip_address";s:5:"label";s:15:"Last Ip Address";}i:15;a:2:{s:9:"attribute";s:10:"last_login";s:5:"label";s:10:"Last Login";}i:16;a:2:{s:9:"attribute";s:10:"created_at";s:5:"label";s:10:"Created At";}i:17;a:2:{s:9:"attribute";s:10:"updated_at";s:5:"label";s:10:"Updated At";}i:18;a:2:{s:9:"attribute";s:12:"name_in_urdu";s:5:"label";s:22:"اردو میں نام";}i:19;a:2:{s:9:"attribute";s:5:"Image";s:5:"label";s:5:"Image";}}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}";s:6:"router";s:1553:"a:1:{s:8:"messages";a:7:{i:22;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1599280591.9231131076812744140625;i:4;a:0:{}i:5;i:5849392;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1599280591.9231479167938232421875;i:4;a:0:{}i:5;i:5850240;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1599280591.9231789112091064453125;i:4;a:0:{}i:5;i:5851128;}i:25;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1599280591.92319011688232421875;i:4;a:0:{}i:5;i:5851968;}i:26;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1599280591.9232120513916015625;i:4;a:0:{}i:5;i:5852856;}i:27;a:6:{i:0;a:3:{s:4:"rule";s:112:"<alias:index|home|error|login|dashboard|logout|index|signup|request-password-reset|reset-password|check-session>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1599280591.9232380390167236328125;i:4;a:0:{}i:5;i:5853824;}i:28;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1599280591.9232409000396728515625;i:4;a:0:{}i:5;i:5854256;}}}";s:7:"summary";a:10:{s:3:"tag";s:13:"5f5315cfe0c80";s:3:"url";s:87:"http://33344450.com/alhuda/web/reports/leave-schol-class-student-pdf?years=2020&clas=12";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:12:"39.33.54.199";s:4:"time";d:1599280591.8922770023345947265625;s:10:"statusCode";i:500;s:8:"sqlCount";i:29;s:9:"mailCount";i:0;s:9:"mailFiles";a:0:{}}s:10:"exceptions";a:0:{}}

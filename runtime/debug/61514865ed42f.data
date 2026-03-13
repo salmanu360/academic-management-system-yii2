@@ -1,0 +1,833 @@
+a:13:{s:6:"config";s:4716:"a:5:{s:10:"phpVersion";s:6:"7.0.33";s:10:"yiiVersion";s:8:"2.0.16.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.16.1";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:2:"en";s:14:"sourceLanguage";s:5:"en_US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"7.0.33";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:19:{s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dynagrid";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:67:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-faker";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.9.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:70:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-krajee-base/src";}}s:23:"kartik-v/yii2-popover-x";a:3:{s:4:"name";s:23:"kartik-v/yii2-popover-x";s:7:"version";s:7:"1.3.4.0";s:5:"alias";a:1:{s:15:"@kartik/popover";s:64:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-popover-x";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:65:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dialog/src";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.2.9.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-grid/src";}}s:22:"johnitvn/yii2-ajaxcrud";a:4:{s:4:"name";s:22:"johnitvn/yii2-ajaxcrud";s:7:"version";s:7:"2.1.3.0";s:5:"alias";a:1:{s:18:"@johnitvn/ajaxcrud";s:67:"/home/onnviiod/public_html/alhuda/vendor/johnitvn/yii2-ajaxcrud/src";}s:9:"bootstrap";s:27:"johnitvn\ajaxcrud\Bootstrap";}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.14.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:63:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-debug/src";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:61:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-gii/src";}}s:22:"kartik-v/yii2-editable";a:3:{s:4:"name";s:22:"kartik-v/yii2-editable";s:7:"version";s:7:"1.7.8.0";s:5:"alias";a:1:{s:16:"@kartik/editable";s:67:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-editable/src";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-mpdf";}}s:18:"robregonm/yii2-pdf";a:3:{s:4:"name";s:18:"robregonm/yii2-pdf";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@robregonm/pdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/robregonm/yii2-pdf";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-depdrop/src";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-select2/src";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.6.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datepicker/src";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.7.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:80:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datetimepicker/src";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.5.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-activeform/src";}}}}";s:7:"request";s:4192:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:500;s:14:"requestHeaders";a:9:{s:4:"host";s:12:"33344450.com";s:10:"connection";s:10:"keep-alive";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:101:"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36";s:6:"accept";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:7:"referer";s:42:"http://33344450.com/alhuda/web/reports/slc";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:35:"en-GB,en-US;q=0.9,en;q=0.8,ur;q=0.7";s:6:"cookie";s:210:"PHPSESSID=2umrrdip1i523vdut9jfk4qaf2; _csrf=05ea325def275dda96c1dc0e6faea96a49ad655d4a52554c41fa4e6cd55608fba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22D1hu9XeIUBLtK4FGHawVFLvy7z4syOUo%22%3B%7D";}s:15:"responseHeaders";a:8:{s:19:"Content-Description";s:13:"File Transfer";s:25:"Content-Transfer-Encoding";s:6:"binary";s:13:"Cache-Control";s:34:"public, must-revalidate, max-age=0";s:6:"Pragma";s:6:"public";s:7:"Expires";s:29:"Sat, 26 Jul 1997 05:00:00 GMT";s:13:"Last-Modified";s:29:"Mon, 27 Sep 2021 04:28:22 GMT";s:12:"Content-Type";a:4:{i:0;s:26:"application/force-download";i:1;s:24:"application/octet-stream";i:2;s:20:"application/download";i:3;s:15:"application/pdf";}s:19:"Content-disposition";s:53:"attachment; filename="age-certificate-27-09-2021.pdf"";}s:5:"route";s:23:"reports/age-certificate";s:6:"action";s:57:"app\controllers\ReportsController::actionAgeCertificate()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:3:"GET";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:0:{}s:6:"SERVER";a:36:{s:4:"PATH";s:28:"/usr/local/bin:/bin:/usr/bin";s:11:"HTTP_ACCEPT";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"en-GB,en-US;q=0.9,en;q=0.8,ur;q=0.7";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:11:"HTTP_COOKIE";s:210:"PHPSESSID=2umrrdip1i523vdut9jfk4qaf2; _csrf=05ea325def275dda96c1dc0e6faea96a49ad655d4a52554c41fa4e6cd55608fba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22D1hu9XeIUBLtK4FGHawVFLvy7z4syOUo%22%3B%7D";s:9:"HTTP_HOST";s:12:"33344450.com";s:12:"HTTP_REFERER";s:42:"http://33344450.com/alhuda/web/reports/slc";s:15:"HTTP_USER_AGENT";s:101:"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:13:"DOCUMENT_ROOT";s:26:"/home/onnviiod/public_html";s:11:"REMOTE_ADDR";s:12:"39.33.27.247";s:11:"REMOTE_PORT";s:5:"59888";s:11:"SERVER_ADDR";s:14:"135.181.164.29";s:11:"SERVER_NAME";s:12:"33344450.com";s:12:"SERVER_ADMIN";s:22:"webmaster@33344450.com";s:11:"SERVER_PORT";s:2:"80";s:14:"REQUEST_SCHEME";s:4:"http";s:11:"REQUEST_URI";s:44:"/alhuda/web/reports/age-certificate?reg=2886";s:12:"REDIRECT_URL";s:35:"/alhuda/web/reports/age-certificate";s:21:"REDIRECT_QUERY_STRING";s:8:"reg=2886";s:15:"REDIRECT_STATUS";s:3:"200";s:15:"SCRIPT_FILENAME";s:47:"/home/onnviiod/public_html/alhuda/web/index.php";s:12:"QUERY_STRING";s:8:"reg=2886";s:10:"SCRIPT_URI";s:54:"http://33344450.com/alhuda/web/reports/age-certificate";s:10:"SCRIPT_URL";s:35:"/alhuda/web/reports/age-certificate";s:11:"SCRIPT_NAME";s:21:"/alhuda/web/index.php";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:15:"SERVER_SOFTWARE";s:9:"LiteSpeed";s:14:"REQUEST_METHOD";s:3:"GET";s:9:"X-LSCACHE";s:2:"on";s:8:"PHP_SELF";s:21:"/alhuda/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1632716901.82793903350830078125;s:12:"REQUEST_TIME";i:1632716901;s:4:"argv";a:1:{i:0;s:8:"reg=2886";}s:4:"argc";i:1;}s:3:"GET";a:1:{s:3:"reg";s:4:"2886";}s:4:"POST";a:0:{}s:6:"COOKIE";a:2:{s:9:"PHPSESSID";s:26:"2umrrdip1i523vdut9jfk4qaf2";s:5:"_csrf";s:130:"05ea325def275dda96c1dc0e6faea96a49ad655d4a52554c41fa4e6cd55608fba:2:{i:0;s:5:"_csrf";i:1;s:32:"D1hu9XeIUBLtK4FGHawVFLvy7z4syOUo";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:3:{s:7:"__flash";a:0:{}s:11:"__returnUrl";s:8:"/alhuda/";s:4:"__id";i:1573;}}";s:3:"log";s:35741:"a:1:{s:8:"messages";a:61:{i:0;a:6:{i:0;s:55:"Bootstrap with johnitvn\ajaxcrud\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1632716901.9005310535430908203125;i:4;a:0:{}i:5;i:2522968;}i:1;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1632716901.900556087493896484375;i:4;a:0:{}i:5;i:2523848;}i:2;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1632716901.90254688262939453125;i:4;a:0:{}i:5;i:2643064;}i:3;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1632716901.902594089508056640625;i:4;a:0:{}i:5;i:2644120;}i:4;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1632716901.927349090576171875;i:4;a:0:{}i:5;i:4245056;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1632716901 AND `id`='2umrrdip1i523vdut9jfk4qaf2'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9331569671630859375;i:4;a:0:{}i:5;i:4442920;}i:10;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1632716901.933979034423828125;i:4;a:0:{}i:5;i:4436896;}i:11;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9524710178375244140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5217976;}i:14;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9550969600677490234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5258840;}i:17;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.968451023101806640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5276480;}i:20;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1632716901.9712479114532470703125;i:4;a:0:{}i:5;i:5404656;}i:21;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1632716901.975922107696533203125;i:4;a:0:{}i:5;i:5681920;}i:29;a:6:{i:0;s:42:"Route requested: 'reports/age-certificate'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1632716901.9789791107177734375;i:4;a:0:{}i:5;i:5829360;}i:30;a:6:{i:0;s:37:"Route to run: reports/age-certificate";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1632716901.9877760410308837890625;i:4;a:0:{}i:5;i:6653248;}i:31;a:6:{i:0;s:73:"Running action: app\controllers\ReportsController::actionAgeCertificate()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1632716901.9884660243988037109375;i:4;a:0:{}i:5;i:6672496;}i:32;a:6:{i:0;s:44:"SELECT * FROM `user` WHERE `username`='2886'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9886419773101806640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2358;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6682432;}i:35;a:6:{i:0;s:49:"SELECT * FROM `student_info` WHERE `user_id`=2085";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9937670230865478515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6784152;}i:38;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.994553089141845703125;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6798488;}i:41;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.996098995208740234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6828448;}i:44;a:6:{i:0;s:90:"Rendering view file: /home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1632716902.0018260478973388671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:6966072;}i:45;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0030510425567626953125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:4;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7042112;}i:48;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.017899990081787109375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7234072;}i:51;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.032104969024658203125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7246576;}i:54;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0326540470123291015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7262360;}i:57;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.033217906951904296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7263576;}i:60;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.033648014068603515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7277176;}i:63;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0346400737762451171875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7298456;}i:66;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0393750667572021484375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7688248;}i:69;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.05068302154541015625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7695232;}i:72;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0514290332794189453125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:53;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7705200;}i:75;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0520370006561279296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7722816;}i:78;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.06385898590087890625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7729800;}i:81;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.064527034759521484375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7738440;}i:84;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1970";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0656869411468505859375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7796208;}i:87;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0688788890838623046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7811536;}i:90;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.070025920867919921875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7839592;}i:93;a:6:{i:0;s:47:"SELECT * FROM `ref_cities` WHERE `city_id`=1537";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0711739063262939453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7864472;}i:96;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `ref_cities`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.071650028228759765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7875072;}i:99;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_cities' AND kcu.table_name = 'ref_cities'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0722219944000244140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7888296;}i:102;a:6:{i:0;s:52:"SELECT * FROM `ref_district` WHERE `district_id`=153";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0731470584869384765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7916328;}i:105;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_district`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.073523044586181640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7926928;}i:108;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_district' AND kcu.table_name = 'ref_district'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0740349292755126953125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7940160;}i:111;a:6:{i:0;s:50:"SELECT * FROM `ref_province` WHERE `province_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0748550891876220703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7967920;}i:114;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_province`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0753080844879150390625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7978512;}i:117;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_province' AND kcu.table_name = 'ref_province'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0758550167083740234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7991744;}i:120;a:6:{i:0;s:50:"SELECT * FROM `ref_countries` WHERE `country_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0767929553985595703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8016168;}i:123;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ref_countries`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.077259063720703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8027016;}i:126;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_countries' AND kcu.table_name = 'ref_countries'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0778419971466064453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8039824;}i:129;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.27.247";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1632716902.0784809589385986328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8008288;}i:130;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.27.247";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1632716902.1963350772857666015625;i:4;a:0:{}i:5;i:18127648;}i:131;a:6:{i:0;s:540:"yii\web\HeadersAlreadySentException: Headers already sent in /home/onnviiod/public_html/alhuda/vendor/mpdf/mpdf/mpdf.php on line 9437. in /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /home/onnviiod/public_html/alhuda/web/index.php(11): yii\base\Application->run()
+#3 {main}";i:1;i:1;i:2;s:35:"yii\web\HeadersAlreadySentException";i:3;d:1632716902.196670055389404296875;i:4;a:0:{}i:5;i:18132592;}i:132;a:6:{i:0;s:107:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/exception.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1632716902.196876049041748046875;i:4;a:0:{}i:5;i:18135624;}i:133;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1632716902.2143390178680419921875;i:4;a:0:{}i:5;i:18390272;}i:134;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1632716902.2149360179901123046875;i:4;a:0:{}i:5;i:18395960;}i:135;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1632716902.21539402008056640625;i:4;a:0:{}i:5;i:18338672;}i:136;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1632716902.2157299518585205078125;i:4;a:0:{}i:5;i:18258392;}i:137;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.27.247";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1632716902.216640949249267578125;i:4;a:0:{}i:5;i:18334352;}i:138;a:6:{i:0;s:101:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.27.247";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1632716902.2168080806732177734375;i:4;a:0:{}i:5;i:18291824;}i:139;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.217814922332763671875;i:4;a:0:{}i:5;i:18073992;}i:142;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1632716903.13488006591796875;i:4;a:0:{}i:5;i:18081600;}i:145;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, '2umrrdip1i523vdut9jfk4qaf2', 1633926502) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1632716903.13621807098388671875;i:4;a:0:{}i:5;i:18089880;}}}";s:9:"profiling";s:61149:"a:3:{s:6:"memory";i:21135008;s:4:"time";d:1.271749973297119140625;s:8:"messages";a:80:{i:5;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1632716901.927443027496337890625;i:4;a:0:{}i:5;i:4245488;}i:6;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1632716901.93111896514892578125;i:4;a:0:{}i:5;i:4318016;}i:8;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1632716901 AND `id`='2umrrdip1i523vdut9jfk4qaf2'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9332730770111083984375;i:4;a:0:{}i:5;i:4443512;}i:9;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1632716901 AND `id`='2umrrdip1i523vdut9jfk4qaf2'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.93389892578125;i:4;a:0:{}i:5;i:4444416;}i:12;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9525740146636962890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5219392;}i:13;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9536659717559814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5242552;}i:15;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9551999568939208984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5261504;}i:16;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.955809116363525390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5263224;}i:18;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9685389995574951171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5276568;}i:19;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9690749645233154296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5281664;}i:33;a:6:{i:0;s:44:"SELECT * FROM `user` WHERE `username`='2886'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9886739253997802734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2358;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6685312;}i:34;a:6:{i:0;s:44:"SELECT * FROM `user` WHERE `username`='2886'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9925420284271240234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2358;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6690232;}i:36;a:6:{i:0;s:49:"SELECT * FROM `student_info` WHERE `user_id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9938199520111083984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6785728;}i:37;a:6:{i:0;s:49:"SELECT * FROM `student_info` WHERE `user_id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9944651126861572265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6794096;}i:39;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9945790767669677734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6799920;}i:40;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9953210353851318359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6844216;}i:42;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9961540699005126953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6831048;}i:43;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.996653079986572265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6832768;}i:46;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.00310611724853515625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:4;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7044232;}i:47;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0035989284515380859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:4;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7049728;}i:49;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0179688930511474609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7236792;}i:50;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.031960010528564453125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7240256;}i:52;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0321400165557861328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7249160;}i:53;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.03254604339599609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7257496;}i:55;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0326750278472900390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7266112;}i:56;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.032990932464599609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7268984;}i:58;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0332500934600830078125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7266272;}i:59;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.033544063568115234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7271224;}i:61;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.033689975738525390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7279744;}i:62;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0342481136322021484375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7299424;}i:64;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0346949100494384765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7302208;}i:65;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0352070331573486328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7310712;}i:67;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0394399166107177734375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7690968;}i:68;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.050364971160888671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7694432;}i:70;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0507199764251708984375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7697928;}i:71;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0511109828948974609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7702880;}i:73;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0514628887176513671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:53;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7707896;}i:74;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0517470836639404296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:53;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7713968;}i:76;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.052073955535888671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7725536;}i:77;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0635230541229248046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7729000;}i:79;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0639030933380126953125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7732496;}i:80;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0642359256744384765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7737448;}i:82;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0645649433135986328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7741136;}i:83;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.064836978912353515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7747208;}i:85;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1970";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0657260417938232421875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7798960;}i:86;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1970";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.068687915802001953125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7806080;}i:88;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0689189434051513671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7814144;}i:89;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.069569110870361328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7849736;}i:91;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.07007694244384765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7843344;}i:92;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0705049037933349609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7846216;}i:94;a:6:{i:0;s:47:"SELECT * FROM `ref_cities` WHERE `city_id`=1537";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.071216106414794921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7866616;}i:95;a:6:{i:0;s:47:"SELECT * FROM `ref_cities` WHERE `city_id`=1537";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.071548938751220703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7869232;}i:97;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `ref_cities`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0717010498046875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7877080;}i:98;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `ref_cities`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.072084903717041015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7882952;}i:100;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_cities' AND kcu.table_name = 'ref_cities'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.07225704193115234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7891472;}i:101;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_cities' AND kcu.table_name = 'ref_cities'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.072576045989990234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7893768;}i:103;a:6:{i:0;s:52:"SELECT * FROM `ref_district` WHERE `district_id`=153";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0731799602508544921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7918480;}i:104;a:6:{i:0;s:52:"SELECT * FROM `ref_district` WHERE `district_id`=153";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0734388828277587890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7921112;}i:106;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_district`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0735709667205810546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7928936;}i:107;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_district`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0739319324493408203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7934816;}i:109;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_district' AND kcu.table_name = 'ref_district'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.074057102203369140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7943336;}i:110;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_district' AND kcu.table_name = 'ref_district'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0743439197540283203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7945632;}i:112;a:6:{i:0;s:50:"SELECT * FROM `ref_province` WHERE `province_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.074893951416015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7970072;}i:113;a:6:{i:0;s:50:"SELECT * FROM `ref_province` WHERE `province_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0752179622650146484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7972696;}i:115;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_province`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0753500461578369140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7980520;}i:116;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_province`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.075726032257080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7986400;}i:118;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_province' AND kcu.table_name = 'ref_province'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.075889110565185546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7994920;}i:119;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_province' AND kcu.table_name = 'ref_province'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0762379169464111328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7997216;}i:121;a:6:{i:0;s:50:"SELECT * FROM `ref_countries` WHERE `country_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0768320560455322265625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8018320;}i:122;a:6:{i:0;s:50:"SELECT * FROM `ref_countries` WHERE `country_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0771648883819580078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8020832;}i:124;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ref_countries`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.077292919158935546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8029024;}i:125;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ref_countries`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.077703952789306640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8033960;}i:127;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_countries' AND kcu.table_name = 'ref_countries'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.077888965606689453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8043000;}i:128;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_countries' AND kcu.table_name = 'ref_countries'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0782749652862548828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8045296;}i:140;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.2178440093994140625;i:4;a:0:{}i:5;i:18078736;}i:141;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716903.134457111358642578125;i:4;a:0:{}i:5;i:18081128;}i:143;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716903.1349170207977294921875;i:4;a:0:{}i:5;i:18082824;}i:144;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716903.1353321075439453125;i:4;a:0:{}i:5;i:18084456;}i:146;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, '2umrrdip1i523vdut9jfk4qaf2', 1633926502) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1632716903.136249065399169921875;i:4;a:0:{}i:5;i:18090080;}i:147;a:6:{i:0;s:332:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:0:{}__returnUrl|s:8:\"/alhuda/\";__id|i:1573;', 1573, 1, '2umrrdip1i523vdut9jfk4qaf2', 1633926502) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1632716903.1495769023895263671875;i:4;a:0:{}i:5;i:18090520;}}}";s:2:"db";s:60699:"a:1:{s:8:"messages";a:78:{i:8;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1632716901 AND `id`='2umrrdip1i523vdut9jfk4qaf2'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9332730770111083984375;i:4;a:0:{}i:5;i:4443512;}i:9;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1632716901 AND `id`='2umrrdip1i523vdut9jfk4qaf2'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.93389892578125;i:4;a:0:{}i:5;i:4444416;}i:12;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9525740146636962890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5219392;}i:13;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9536659717559814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5242552;}i:15;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9551999568939208984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5261504;}i:16;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.955809116363525390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5263224;}i:18;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9685389995574951171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5276568;}i:19;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1573) AND (`status`='active')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9690749645233154296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5281664;}i:33;a:6:{i:0;s:44:"SELECT * FROM `user` WHERE `username`='2886'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9886739253997802734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2358;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6685312;}i:34;a:6:{i:0;s:44:"SELECT * FROM `user` WHERE `username`='2886'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9925420284271240234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2358;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6690232;}i:36;a:6:{i:0;s:49:"SELECT * FROM `student_info` WHERE `user_id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9938199520111083984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6785728;}i:37;a:6:{i:0;s:49:"SELECT * FROM `student_info` WHERE `user_id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9944651126861572265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6794096;}i:39;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9945790767669677734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6799920;}i:40;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9953210353851318359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6844216;}i:42;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.9961540699005126953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6831048;}i:43;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716901.996653079986572265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2360;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6832768;}i:46;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.00310611724853515625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:4;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7044232;}i:47;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0035989284515380859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:4;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7049728;}i:49;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0179688930511474609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7236792;}i:50;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.031960010528564453125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7240256;}i:52;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0321400165557861328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7249160;}i:53;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.03254604339599609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7257496;}i:55;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0326750278472900390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7266112;}i:56;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.032990932464599609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7268984;}i:58;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0332500934600830078125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7266272;}i:59;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.033544063568115234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7271224;}i:61;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.033689975738525390625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7279744;}i:62;a:6:{i:0;s:31:"SHOW FULL COLUMNS FROM `branch`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0342481136322021484375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7299424;}i:64;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0346949100494384765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7302208;}i:65;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'branch' AND kcu.table_name = 'branch'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0352070331573486328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:8;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7310712;}i:67;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0394399166107177734375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7690968;}i:68;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.050364971160888671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7694432;}i:70;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0507199764251708984375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7697928;}i:71;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0511109828948974609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:47;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7702880;}i:73;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0514628887176513671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:53;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7707896;}i:74;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0517470836639404296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:53;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7713968;}i:76;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.052073955535888671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7725536;}i:77;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1573";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0635230541229248046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:7729000;}i:79;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0639030933380126953125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7732496;}i:80;a:6:{i:0;s:35:"SELECT * FROM `branch` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0642359256744384765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:49;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:59;s:8:"function";s:15:"getBranchDetail";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7737448;}i:82;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0645649433135986328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7741136;}i:83;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2085";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.064836978912353515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7747208;}i:85;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1970";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0657260417938232421875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7798960;}i:86;a:6:{i:0;s:56:"SELECT * FROM `student_parents_info` WHERE `stu_id`=1970";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.068687915802001953125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7806080;}i:88;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0689189434051513671875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7814144;}i:89;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.069569110870361328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7849736;}i:91;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.07007694244384765625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7843344;}i:92;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0705049037933349609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:151;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:13:"getParentName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7846216;}i:94;a:6:{i:0;s:47:"SELECT * FROM `ref_cities` WHERE `city_id`=1537";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.071216106414794921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7866616;}i:95;a:6:{i:0;s:47:"SELECT * FROM `ref_cities` WHERE `city_id`=1537";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.071548938751220703125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7869232;}i:97;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `ref_cities`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0717010498046875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7877080;}i:98;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `ref_cities`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.072084903717041015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7882952;}i:100;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_cities' AND kcu.table_name = 'ref_cities'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.07225704193115234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7891472;}i:101;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_cities' AND kcu.table_name = 'ref_cities'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.072576045989990234375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7893768;}i:103;a:6:{i:0;s:52:"SELECT * FROM `ref_district` WHERE `district_id`=153";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0731799602508544921875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7918480;}i:104;a:6:{i:0;s:52:"SELECT * FROM `ref_district` WHERE `district_id`=153";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0734388828277587890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7921112;}i:106;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_district`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0735709667205810546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7928936;}i:107;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_district`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0739319324493408203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7934816;}i:109;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_district' AND kcu.table_name = 'ref_district'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.074057102203369140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7943336;}i:110;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_district' AND kcu.table_name = 'ref_district'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0743439197540283203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7945632;}i:112;a:6:{i:0;s:50:"SELECT * FROM `ref_province` WHERE `province_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.074893951416015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7970072;}i:113;a:6:{i:0;s:50:"SELECT * FROM `ref_province` WHERE `province_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0752179622650146484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7972696;}i:115;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_province`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0753500461578369140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7980520;}i:116;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `ref_province`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.075726032257080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7986400;}i:118;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_province' AND kcu.table_name = 'ref_province'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.075889110565185546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7994920;}i:119;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_province' AND kcu.table_name = 'ref_province'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0762379169464111328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:7997216;}i:121;a:6:{i:0;s:50:"SELECT * FROM `ref_countries` WHERE `country_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0768320560455322265625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8018320;}i:122;a:6:{i:0;s:50:"SELECT * FROM `ref_countries` WHERE `country_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0771648883819580078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8020832;}i:124;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ref_countries`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.077292919158935546875;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8029024;}i:125;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `ref_countries`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.077703952789306640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8033960;}i:127;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_countries' AND kcu.table_name = 'ref_countries'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.077888965606689453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8043000;}i:128;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'ref_countries' AND kcu.table_name = 'ref_countries'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.0782749652862548828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:69:"/home/onnviiod/public_html/alhuda/views/reports/academics/age-pdf.php";s:4:"line";i:67;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:67:"/home/onnviiod/public_html/alhuda/controllers/ReportsController.php";s:4:"line";i:2361;s:8:"function";s:10:"renderAjax";s:5:"class";s:18:"yii\web\Controller";s:4:"type";s:2:"->";}}i:5;i:8045296;}i:140;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1632716902.2178440093994140625;i:4;a:0:{}i:5;i:18078736;}i:141;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_

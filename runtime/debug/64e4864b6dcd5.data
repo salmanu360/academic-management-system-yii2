@@ -1,0 +1,382 @@
+a:13:{s:6:"config";s:4716:"a:5:{s:10:"phpVersion";s:6:"7.0.33";s:10:"yiiVersion";s:8:"2.0.16.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.16.1";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:2:"en";s:14:"sourceLanguage";s:5:"en_US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"7.0.33";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:19:{s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dynagrid";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:67:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-faker";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.9.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:70:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-krajee-base/src";}}s:23:"kartik-v/yii2-popover-x";a:3:{s:4:"name";s:23:"kartik-v/yii2-popover-x";s:7:"version";s:7:"1.3.4.0";s:5:"alias";a:1:{s:15:"@kartik/popover";s:64:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-popover-x";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:65:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dialog/src";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.2.9.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-grid/src";}}s:22:"johnitvn/yii2-ajaxcrud";a:4:{s:4:"name";s:22:"johnitvn/yii2-ajaxcrud";s:7:"version";s:7:"2.1.3.0";s:5:"alias";a:1:{s:18:"@johnitvn/ajaxcrud";s:67:"/home/onnviiod/public_html/alhuda/vendor/johnitvn/yii2-ajaxcrud/src";}s:9:"bootstrap";s:27:"johnitvn\ajaxcrud\Bootstrap";}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.14.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:63:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-debug/src";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:61:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-gii/src";}}s:22:"kartik-v/yii2-editable";a:3:{s:4:"name";s:22:"kartik-v/yii2-editable";s:7:"version";s:7:"1.7.8.0";s:5:"alias";a:1:{s:16:"@kartik/editable";s:67:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-editable/src";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-mpdf";}}s:18:"robregonm/yii2-pdf";a:3:{s:4:"name";s:18:"robregonm/yii2-pdf";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@robregonm/pdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/robregonm/yii2-pdf";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-depdrop/src";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-select2/src";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.6.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datepicker/src";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.7.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:80:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datetimepicker/src";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.5.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-activeform/src";}}}}";s:7:"request";s:4424:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:500;s:14:"requestHeaders";a:13:{s:4:"host";s:12:"33344450.com";s:10:"connection";s:10:"keep-alive";s:14:"content-length";s:2:"98";s:13:"cache-control";s:9:"max-age=0";s:25:"upgrade-insecure-requests";s:1:"1";s:6:"origin";s:19:"http://33344450.com";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:10:"user-agent";s:111:"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36";s:6:"accept";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";s:7:"referer";s:46:"http://33344450.com/alhuda/web/exams/dmc-index";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:14:"en-US,en;q=0.9";s:6:"cookie";s:210:"PHPSESSID=1topdkvgtb0cegrn6gd3tpj8c1; _csrf=129153c5e4e93acddf0db0d2fd791a190a64df18cd113e59515acf11a047df7ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SVne13fu8awvZpUAsMaTmVXC8b8U68Eq%22%3B%7D";}s:15:"responseHeaders";a:4:{s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:11:"site/logout";s:6:"action";s:46:"app\controllers\SiteController::actionLogout()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:4:"POST";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:98:"_csrf=4tgJeTJlmbk9-mWq7Enee-jAagtUsJiSM_dz2SJZBpqxjmccA1b_zAWbEty2OYs6m40LXznmwNELlUuMFGFD6w%3D%3D";s:17:"Decoded to Params";a:1:{s:5:"_csrf";s:88:"4tgJeTJlmbk9-mWq7Enee-jAagtUsJiSM_dz2SJZBpqxjmccA1b_zAWbEty2OYs6m40LXznmwNELlUuMFGFD6w==";}}s:6:"SERVER";a:40:{s:4:"PATH";s:28:"/usr/local/bin:/bin:/usr/bin";s:11:"HTTP_ACCEPT";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.9";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:14:"CONTENT_LENGTH";s:2:"98";s:11:"HTTP_COOKIE";s:210:"PHPSESSID=1topdkvgtb0cegrn6gd3tpj8c1; _csrf=129153c5e4e93acddf0db0d2fd791a190a64df18cd113e59515acf11a047df7ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SVne13fu8awvZpUAsMaTmVXC8b8U68Eq%22%3B%7D";s:9:"HTTP_HOST";s:12:"33344450.com";s:12:"HTTP_REFERER";s:46:"http://33344450.com/alhuda/web/exams/dmc-index";s:15:"HTTP_USER_AGENT";s:111:"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:11:"HTTP_ORIGIN";s:19:"http://33344450.com";s:13:"DOCUMENT_ROOT";s:26:"/home/onnviiod/public_html";s:11:"REMOTE_ADDR";s:13:"103.182.14.30";s:11:"REMOTE_PORT";s:5:"42886";s:11:"SERVER_ADDR";s:14:"135.181.164.29";s:11:"SERVER_NAME";s:12:"33344450.com";s:12:"SERVER_ADMIN";s:22:"webmaster@33344450.com";s:11:"SERVER_PORT";s:2:"80";s:14:"REQUEST_SCHEME";s:4:"http";s:11:"REQUEST_URI";s:18:"/alhuda/web/logout";s:12:"REDIRECT_URL";s:18:"/alhuda/web/logout";s:23:"REDIRECT_REQUEST_METHOD";s:4:"POST";s:15:"REDIRECT_STATUS";s:3:"200";s:15:"SCRIPT_FILENAME";s:47:"/home/onnviiod/public_html/alhuda/web/index.php";s:12:"QUERY_STRING";s:0:"";s:10:"SCRIPT_URI";s:37:"http://33344450.com/alhuda/web/logout";s:10:"SCRIPT_URL";s:18:"/alhuda/web/logout";s:11:"SCRIPT_NAME";s:21:"/alhuda/web/index.php";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:15:"SERVER_SOFTWARE";s:9:"LiteSpeed";s:14:"REQUEST_METHOD";s:4:"POST";s:9:"X-LSCACHE";s:2:"on";s:8:"PHP_SELF";s:21:"/alhuda/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1692698185.8627529144287109375;s:12:"REQUEST_TIME";i:1692698185;s:4:"argv";a:0:{}s:4:"argc";i:0;}s:3:"GET";a:0:{}s:4:"POST";a:1:{s:5:"_csrf";s:88:"4tgJeTJlmbk9-mWq7Enee-jAagtUsJiSM_dz2SJZBpqxjmccA1b_zAWbEty2OYs6m40LXznmwNELlUuMFGFD6w==";}s:6:"COOKIE";a:2:{s:9:"PHPSESSID";s:26:"1topdkvgtb0cegrn6gd3tpj8c1";s:5:"_csrf";s:130:"129153c5e4e93acddf0db0d2fd791a190a64df18cd113e59515acf11a047df7ca:2:{i:0;s:5:"_csrf";i:1;s:32:"SVne13fu8awvZpUAsMaTmVXC8b8U68Eq";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:4:"__id";i:80;}}";s:3:"log";s:23561:"a:1:{s:8:"messages";a:44:{i:0;a:6:{i:0;s:55:"Bootstrap with johnitvn\ajaxcrud\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1692698185.9021968841552734375;i:4;a:0:{}i:5;i:2525280;}i:1;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1692698185.9022190570831298828125;i:4;a:0:{}i:5;i:2526160;}i:2;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1692698185.9035389423370361328125;i:4;a:0:{}i:5;i:2645376;}i:3;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1692698185.903575897216796875;i:4;a:0:{}i:5;i:2646432;}i:4;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1692698185.953784942626953125;i:4;a:0:{}i:5;i:4247368;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1692698185 AND `id`='1topdkvgtb0cegrn6gd3tpj8c1'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.400353908538818359375;i:4;a:0:{}i:5;i:4443120;}i:10;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1692698187.401309967041015625;i:4;a:0:{}i:5;i:4436992;}i:11;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.4085218906402587890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5218072;}i:14;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.418621063232421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5258936;}i:17;a:6:{i:0;s:60:"SELECT * FROM `user` WHERE (`id`=80) AND (`status`='active')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.4428870677947998046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5276576;}i:20;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1692698187.449203968048095703125;i:4;a:0:{}i:5;i:5404736;}i:21;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1692698187.4524300098419189453125;i:4;a:0:{}i:5;i:5682000;}i:29;a:6:{i:0;s:30:"Route requested: 'site/logout'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1692698187.4541170597076416015625;i:4;a:0:{}i:5;i:5831160;}i:30;a:6:{i:0;s:25:"Route to run: site/logout";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1692698187.45666599273681640625;i:4;a:0:{}i:5;i:6068472;}i:31;a:6:{i:0;s:62:"Running action: app\controllers\SiteController::actionLogout()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1692698187.4584319591522216796875;i:4;a:0:{}i:5;i:6267728;}i:32;a:6:{i:0;s:62:"SELECT * FROM `user_log` WHERE `user_id`=80 ORDER BY `id` DESC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.4587900638580322265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6300872;}i:35;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `user_log`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.497188091278076171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6312384;}i:38;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_log' AND kcu.table_name = 'user_log'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.5192921161651611328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6326768;}i:41;a:6:{i:0;s:38:"DELETE FROM `user_log` WHERE `id`=8021";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1692698187.5340249538421630859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:731;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6327592;}i:44;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.5397999286651611328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6346952;}i:47;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.545898914337158203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6359280;}i:50;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.560120105743408203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6370872;}i:52;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1692698196.3139340877532958984375;i:4;a:0:{}i:5;i:6131824;}i:55;a:6:{i:0;s:7094:"PDOException: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute. in /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php:1290
+Stack trace:
+#0 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(1290): PDOStatement->execute()
+#1 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(1158): yii\db\Command->internalExecute('SELECT\r\n    `kc...')
+#2 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#3 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/mysql/Schema.php(542): yii\db\Command->queryAll()
+#4 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/mysql/Schema.php(138): yii\db\mysql\Schema->loadTableConstraints('session', 'primaryKey')
+#5 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Schema.php(744): yii\db\mysql\Schema->loadTablePrimaryKey('session')
+#6 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/ConstraintFinderTrait.php(101): yii\db\Schema->getTableMetadata('{{%session}}', 'primaryKey', false)
+#7 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/QueryBuilder.php(574): yii\db\mysql\Schema->getTablePrimaryKey('{{%session}}')
+#8 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/QueryBuilder.php(546): yii\db\QueryBuilder->getTableUniqueColumnNames('{{%session}}', Array, '[]')
+#9 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(277): yii\db\QueryBuilder->prepareUpsertColumns('{{%session}}', Array, true)
+#10 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(546): yii\db\mysql\QueryBuilder->upsert('{{%session}}', Array, true, '[<span class="s...')
+#11 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/DbSession.php(174): yii\db\Command->upsert('{{%session}}', Array)
+#12 [internal function]: yii\web\DbSession->writeSession('1topdkvgtb0cegr...', '__flash|a:0:{}_...')
+#13 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/Session.php(192): session_write_close()
+#14 [internal function]: yii\web\Session->close()
+#15 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+The SQL being executed was: SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC in /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Schema.php:664
+Stack trace:
+#0 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(1295): yii\db\Schema->convertException(Object(PDOException), 'SELECT\r\n    `kc...')
+#1 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(1158): yii\db\Command->internalExecute('SELECT\r\n    `kc...')
+#2 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#3 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/mysql/Schema.php(542): yii\db\Command->queryAll()
+#4 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/mysql/Schema.php(138): yii\db\mysql\Schema->loadTableConstraints('session', 'primaryKey')
+#5 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Schema.php(744): yii\db\mysql\Schema->loadTablePrimaryKey('session')
+#6 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/ConstraintFinderTrait.php(101): yii\db\Schema->getTableMetadata('{{%session}}', 'primaryKey', false)
+#7 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/QueryBuilder.php(574): yii\db\mysql\Schema->getTablePrimaryKey('{{%session}}')
+#8 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/QueryBuilder.php(546): yii\db\QueryBuilder->getTableUniqueColumnNames('{{%session}}', Array, '[]')
+#9 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/mysql/QueryBuilder.php(277): yii\db\QueryBuilder->prepareUpsertColumns('{{%session}}', Array, true)
+#10 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/db/Command.php(546): yii\db\mysql\QueryBuilder->upsert('{{%session}}', Array, true, '[<span class="s...')
+#11 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/DbSession.php(174): yii\db\Command->upsert('{{%session}}', Array)
+#12 [internal function]: yii\web\DbSession->writeSession('1topdkvgtb0cegr...', '__flash|a:0:{}_...')
+#13 /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/web/Session.php(192): session_write_close()
+#14 [internal function]: yii\web\Session->close()
+#15 {main}
+Additional Information:
+Array
+(
+    [0] => HY000
+    [1] => 2014
+    [2] => Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.
+)
+";i:1;i:1;i:2;s:16:"yii\db\Exception";i:3;d:1692698196.3143520355224609375;i:4;a:0:{}i:5;i:6166688;}i:56;a:6:{i:0;s:107:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/exception.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3157579898834228515625;i:4;a:0:{}i:5;i:6278216;}i:57;a:6:{i:0;s:115:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/previousException.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.316608905792236328125;i:4;a:0:{}i:5;i:6407192;}i:58;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.316978931427001953125;i:4;a:0:{}i:5;i:6505552;}i:59;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3174560070037841796875;i:4;a:0:{}i:5;i:6580264;}i:60;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.317965030670166015625;i:4;a:0:{}i:5;i:6586352;}i:61;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3183810710906982421875;i:4;a:0:{}i:5;i:6591736;}i:62;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3187348842620849609375;i:4;a:0:{}i:5;i:6508984;}i:63;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.31904506683349609375;i:4;a:0:{}i:5;i:6513992;}i:64;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.319386005401611328125;i:4;a:0:{}i:5;i:6534104;}i:65;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3197040557861328125;i:4;a:0:{}i:5;i:6474856;}i:66;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3201711177825927734375;i:4;a:0:{}i:5;i:6645040;}i:67;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.32069110870361328125;i:4;a:0:{}i:5;i:6650104;}i:68;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3210389614105224609375;i:4;a:0:{}i:5;i:6502616;}i:69;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.321445941925048828125;i:4;a:0:{}i:5;i:6620576;}i:70;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.321772098541259765625;i:4;a:0:{}i:5;i:6488440;}i:71;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.322020053863525390625;i:4;a:0:{}i:5;i:6466264;}i:72;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.32236194610595703125;i:4;a:0:{}i:5;i:6570040;}i:73;a:6:{i:0;s:111:"Rendering view file: /home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2/views/errorHandler/callStackItem.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1692698196.3225920200347900390625;i:4;a:0:{}i:5;i:6469536;}i:74;a:6:{i:0;s:102:"Access to debugger is denied due to IP address restriction. The requesting IP address is 103.182.14.30";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1692698196.3234100341796875;i:4;a:0:{}i:5;i:6539592;}i:75;a:6:{i:0;s:102:"Access to debugger is denied due to IP address restriction. The requesting IP address is 103.182.14.30";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1692698196.324225902557373046875;i:4;a:0:{}i:5;i:6511696;}}}";s:9:"profiling";s:17364:"a:3:{s:6:"memory";i:6731456;s:4:"time";d:10.4553849697113037109375;s:8:"messages";a:25:{i:5;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1692698185.9538419246673583984375;i:4;a:0:{}i:5;i:4247800;}i:6;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1692698187.3988769054412841796875;i:4;a:0:{}i:5;i:4318216;}i:8;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1692698185 AND `id`='1topdkvgtb0cegrn6gd3tpj8c1'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.400433063507080078125;i:4;a:0:{}i:5;i:4443712;}i:9;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1692698185 AND `id`='1topdkvgtb0cegrn6gd3tpj8c1'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.401237010955810546875;i:4;a:0:{}i:5;i:4444592;}i:12;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.408588886260986328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5219488;}i:13;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.417829990386962890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5242648;}i:15;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.418675899505615234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5261600;}i:16;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.4420430660247802734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5263320;}i:18;a:6:{i:0;s:60:"SELECT * FROM `user` WHERE (`id`=80) AND (`status`='active')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.442943096160888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5276664;}i:19;a:6:{i:0;s:60:"SELECT * FROM `user` WHERE (`id`=80) AND (`status`='active')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.447926044464111328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:5281744;}i:33;a:6:{i:0;s:62:"SELECT * FROM `user_log` WHERE `user_id`=80 ORDER BY `id` DESC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.4588310718536376953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6303768;}i:34;a:6:{i:0;s:62:"SELECT * FROM `user_log` WHERE `user_id`=80 ORDER BY `id` DESC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.4970340728759765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6306800;}i:36;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `user_log`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.497219085693359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6313816;}i:37;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `user_log`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.5189740657806396484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6325368;}i:39;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_log' AND kcu.table_name = 'user_log'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.51932811737060546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6329368;}i:40;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_log' AND kcu.table_name = 'user_log'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.5336110591888427734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:729;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6331088;}i:42;a:6:{i:0;s:38:"DELETE FROM `user_log` WHERE `id`=8021";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1692698187.534060001373291015625;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:731;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6329136;}i:43;a:6:{i:0;s:38:"DELETE FROM `user_log` WHERE `id`=8021";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1692698187.53919506072998046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:731;s:8:"function";s:6:"delete";s:5:"class";s:19:"yii\db\ActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6330472;}i:45;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.5398619174957275390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6348384;}i:46;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.5456750392913818359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6355568;}i:48;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.54594707489013671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6361944;}i:49;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.559711933135986328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6363664;}i:51;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698187.5601770877838134765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:64:"/home/onnviiod/public_html/alhuda/controllers/SiteController.php";s:4:"line";i:733;s:8:"function";s:6:"logout";s:5:"class";s:12:"yii\web\User";s:4:"type";s:2:"->";}}i:5;i:6376192;}i:53;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1692698196.31398296356201171875;i:4;a:0:{}i:5;i:6136568;}i:54;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEM

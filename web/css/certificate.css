@@ -1,0 +1,71 @@
+ body{ 
+ /*background: url('<?php echo Url::to('@web/img/cerificate/').Certificate-01333_03.png; ?>');*/
+ /*background: url('<?php echo $web_path ?>Certificate-01333_03.png');*/
+background-repeat: no-repeat;
+background-size: 1200px;
+/*background-attachment: fixed;*/
+}
+.main_section {
+  /*width:1300px;
+ height: 640px;*/
+ /* margin-left: 23px;*/
+/*background: url('Certificate-01_033.png');
+background-repeat: no-repeat;
+background-attachment: fixed;*/
+}
+.Company_name{
+  padding-left: 370px;
+  font-family: shardee;
+  font-size: 20px;
+  font-weight: 700;
+  color:#037dbd;
+  margin-top: 60px;
+
+}
+
+.startdate_section{
+  float: left;
+  margin-left: 60px;
+  margin-top: 30px;
+
+}
+.expairydate_section{
+  float: right;
+  margin-right: 240px;
+  margin-top: 30px;
+}
+
+.certify{
+  float:left;
+margin-left: -210px;
+  margin-top: 80px;
+}
+
+.condidate_name{
+  margin-left: 160px;
+  float: left;
+  margin-top: 85px;}
+
+.text{
+  margin-left: 80px;
+  float: left;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.lastleft_section{
+  /*float: left;*/
+  margin-left: 100px;
+  margin-top: 300px;
+
+}
+
+.lastright_section{
+  float: right;
+  margin-right: 250px;
+  margin-top: -90px;
+}
+.lastleft_section img{width: 70px; height: 60px;}
+.lastright_section img{
+  width: 70px; height: 60px;
+}

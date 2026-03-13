@@ -1,0 +1,79 @@
+<?php
+
+namespace app\models\search;
+
+use Yii;
+use yii\base\Model;
+use yii\data\ActiveDataProvider;
+use app\models\StudentAttendance;
+
+/**
+ * StudentAttendanceSearch represents the model behind the search form of `app\models\StudentAttendance`.
+ */
+class StudentAttendanceSearch extends StudentAttendance
+{
+    /**
+     * @inheritdoc
+     */
+    public function rules()
+    {
+        return [
+            [['id', 'fk_stu_id', 'class_id', 'group_id', 'section_id', 'fk_branch_id'], 'integer'],
+            [['date', 'leave_type', 'remarks'], 'safe'],
+        ];
+    }
+
+    /**
+     * @inheritdoc
+     */
+    public function scenarios()
+    {
+        // bypass scenarios() implementation in the parent class
+        return Model::scenarios();
+    }
+
+    /**
+     * Creates data provider instance with search query applied
+     *
+     * @param array $params
+     *
+     * @return ActiveDataProvider
+     */
+    public function search($params)
+    {
+        $query = StudentAttendance::find();
+
+        // add conditions that should always apply here
+
+        $dataProvider = new ActiveDataProvider([
+            'query' => $query,
+        ]);
+
+        $this->load($params);
+
+        if (!$this->validate()) {
+            // uncomment the following line if you do not want to return any records when validation fails
+            // $query->where('0=1');
+            return $dataProvider;
+        }
+
+        // grid filtering conditions
+        $query->andFilterWhere([
+            'id' => $this->id,
+            'fk_stu_id' => $this->fk_stu_id,
+            'class_id' => $this->class_id,
+            'group_id' => $this->group_id, 
+           'section_id' => $this->section_id, 
+            'date' => $this->date,
+            'leave_type' => $this->leave_type,
+            'fk_branch_id' => $this->fk_branch_id,
+        ]);
+
+        $query->andFilterWhere(['like', 'leave_type', $this->leave_type])
+              ->andFilterWhere(['like', 'time', $this->time])
+              ->andFilterWhere(['like', 'leave_type', $this->leave_type])
+              ->andFilterWhere(['like', 'remarks', $this->remarks]);
+
+        return $dataProvider;
+    }
+}

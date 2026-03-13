@@ -1,0 +1,856 @@
+a:13:{s:6:"config";s:4716:"a:5:{s:10:"phpVersion";s:6:"7.0.33";s:10:"yiiVersion";s:8:"2.0.16.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.16.1";s:4:"name";s:14:"My Application";s:7:"version";s:3:"1.0";s:8:"language";s:2:"en";s:14:"sourceLanguage";s:5:"en_US";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"7.0.33";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:19:{s:22:"kartik-v/yii2-dynagrid";a:3:{s:4:"name";s:22:"kartik-v/yii2-dynagrid";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:16:"@kartik/dynagrid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dynagrid";}}s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:65:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-swiftmailer";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.9.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:67:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:59:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-faker";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.9.9.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:70:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-krajee-base/src";}}s:23:"kartik-v/yii2-popover-x";a:3:{s:4:"name";s:23:"kartik-v/yii2-popover-x";s:7:"version";s:7:"1.3.4.0";s:5:"alias";a:1:{s:15:"@kartik/popover";s:64:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-popover-x";}}s:20:"kartik-v/yii2-dialog";a:3:{s:4:"name";s:20:"kartik-v/yii2-dialog";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:14:"@kartik/dialog";s:65:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-dialog/src";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.2.9.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:63:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-grid/src";}}s:22:"johnitvn/yii2-ajaxcrud";a:4:{s:4:"name";s:22:"johnitvn/yii2-ajaxcrud";s:7:"version";s:7:"2.1.3.0";s:5:"alias";a:1:{s:18:"@johnitvn/ajaxcrud";s:67:"/home/onnviiod/public_html/alhuda/vendor/johnitvn/yii2-ajaxcrud/src";}s:9:"bootstrap";s:27:"johnitvn\ajaxcrud\Bootstrap";}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.14.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:63:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-debug/src";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:61:"/home/onnviiod/public_html/alhuda/vendor/yiisoft/yii2-gii/src";}}s:22:"kartik-v/yii2-editable";a:3:{s:4:"name";s:22:"kartik-v/yii2-editable";s:7:"version";s:7:"1.7.8.0";s:5:"alias";a:1:{s:16:"@kartik/editable";s:67:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-editable/src";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-mpdf";}}s:18:"robregonm/yii2-pdf";a:3:{s:4:"name";s:18:"robregonm/yii2-pdf";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:14:"@robregonm/pdf";s:59:"/home/onnviiod/public_html/alhuda/vendor/robregonm/yii2-pdf";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-depdrop/src";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:15:"@kartik/select2";s:73:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-select2/src";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:7:"1.4.6.0";s:5:"alias";a:1:{s:12:"@kartik/date";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datepicker/src";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.7.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:80:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-datetimepicker/src";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.5.8.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:76:"/home/onnviiod/public_html/alhuda/vendor/kartik-v/yii2-widget-activeform/src";}}}}";s:7:"request";s:7020:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:302;s:14:"requestHeaders";a:13:{s:4:"host";s:12:"33344450.com";s:10:"connection";s:10:"keep-alive";s:14:"content-length";s:3:"736";s:13:"cache-control";s:9:"max-age=0";s:25:"upgrade-insecure-requests";s:1:"1";s:6:"origin";s:19:"http://33344450.com";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:10:"user-agent";s:113:"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36";s:6:"accept";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:7:"referer";s:49:"http://33344450.com/alhuda/web/fee/fee-submission";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:35:"en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7";s:6:"cookie";s:210:"PHPSESSID=qtk8ndmbes8vmlb87p8bsc25b4; _csrf=ee95c0b60f5ec381ec7fb92d09287483ba3518896aa1aee52ad63b9379987b0fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22YhLYLqR0bqa8dPnUpwv66oxlhWpnOk9y%22%3B%7D";}s:15:"responseHeaders";a:5:{s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:35:"no-store, no-cache, must-revalidate";s:6:"Pragma";s:8:"no-cache";s:8:"Location";s:70:"http://33344450.com/alhuda/web/fee/fee-submission?c_id=4&g_id=&s_id=18";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:14:"fee/fee-submit";s:6:"action";s:48:"app\controllers\FeeController::actionFeeSubmit()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:4:"POST";s:6:"isAjax";b:0;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:736:"_csrf=Tybd_nWimmzXzPLCdtioOyE2qGkPyRlxviY2lObaQnQWTpGnOdPIXLW9k_oSiMZuUUHeXzmmYR3WcUb6qbF7DQ%3D%3D&class-id=4&group-id=&section-id=18&stu_id=2179&Fromdate=2020-12-01&toDate=2020-12-31&sibling_discount%5B1%5D=360&fee_head_id%5B%5D=1&transaction_head_amount%5B1%5D=1400&headDiscount%5B1%5D=0&transaction_head_arrears_amount%5B1%5D=1480&StudentDisount%5Binput_total_transport_fare%5D=0&transaction_transport_arrears_amount=&StudentDisount%5Binput_total_hostel_fare%5D=0&transaction_hostel_arrears_amount=&StudentFine%5BabsendFine%5D=0&FeeTransactionDetails%5Btotal_arrears_amount%5D=1480&StudentDisount%5Binput_total_discount%5D=0&StudentDisount%5Binput_total_amount_payable%5D=2880&FeeTransactionDetails%5Btransaction_amount%5D=1400&diff=";s:17:"Decoded to Params";a:18:{s:5:"_csrf";s:88:"Tybd_nWimmzXzPLCdtioOyE2qGkPyRlxviY2lObaQnQWTpGnOdPIXLW9k_oSiMZuUUHeXzmmYR3WcUb6qbF7DQ==";s:8:"class-id";s:1:"4";s:8:"group-id";s:0:"";s:10:"section-id";s:2:"18";s:6:"stu_id";s:4:"2179";s:8:"Fromdate";s:10:"2020-12-01";s:6:"toDate";s:10:"2020-12-31";s:16:"sibling_discount";a:1:{i:1;s:3:"360";}s:11:"fee_head_id";a:1:{i:0;s:1:"1";}s:23:"transaction_head_amount";a:1:{i:1;s:4:"1400";}s:12:"headDiscount";a:1:{i:1;s:1:"0";}s:31:"transaction_head_arrears_amount";a:1:{i:1;s:4:"1480";}s:14:"StudentDisount";a:4:{s:26:"input_total_transport_fare";s:1:"0";s:23:"input_total_hostel_fare";s:1:"0";s:20:"input_total_discount";s:1:"0";s:26:"input_total_amount_payable";s:4:"2880";}s:36:"transaction_transport_arrears_amount";s:0:"";s:33:"transaction_hostel_arrears_amount";s:0:"";s:11:"StudentFine";a:1:{s:10:"absendFine";s:1:"0";}s:21:"FeeTransactionDetails";a:2:{s:20:"total_arrears_amount";s:4:"1480";s:18:"transaction_amount";s:4:"1400";}s:4:"diff";s:0:"";}}s:6:"SERVER";a:38:{s:4:"PATH";s:28:"/usr/local/bin:/bin:/usr/bin";s:11:"HTTP_ACCEPT";s:135:"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:14:"CONTENT_LENGTH";s:3:"736";s:11:"HTTP_COOKIE";s:210:"PHPSESSID=qtk8ndmbes8vmlb87p8bsc25b4; _csrf=ee95c0b60f5ec381ec7fb92d09287483ba3518896aa1aee52ad63b9379987b0fa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22YhLYLqR0bqa8dPnUpwv66oxlhWpnOk9y%22%3B%7D";s:9:"HTTP_HOST";s:12:"33344450.com";s:12:"HTTP_REFERER";s:49:"http://33344450.com/alhuda/web/fee/fee-submission";s:15:"HTTP_USER_AGENT";s:113:"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:11:"HTTP_ORIGIN";s:19:"http://33344450.com";s:13:"DOCUMENT_ROOT";s:26:"/home/onnviiod/public_html";s:11:"REMOTE_ADDR";s:11:"39.33.96.86";s:11:"REMOTE_PORT";s:5:"64934";s:11:"SERVER_ADDR";s:14:"94.130.162.223";s:11:"SERVER_NAME";s:12:"33344450.com";s:12:"SERVER_ADMIN";s:22:"webmaster@33344450.com";s:11:"SERVER_PORT";s:2:"80";s:11:"REQUEST_URI";s:26:"/alhuda/web/fee/fee-submit";s:12:"REDIRECT_URL";s:26:"/alhuda/web/fee/fee-submit";s:15:"REDIRECT_STATUS";s:3:"200";s:15:"SCRIPT_FILENAME";s:47:"/home/onnviiod/public_html/alhuda/web/index.php";s:12:"QUERY_STRING";s:0:"";s:10:"SCRIPT_URI";s:45:"http://33344450.com/alhuda/web/fee/fee-submit";s:10:"SCRIPT_URL";s:26:"/alhuda/web/fee/fee-submit";s:11:"SCRIPT_NAME";s:21:"/alhuda/web/index.php";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:15:"SERVER_SOFTWARE";s:9:"LiteSpeed";s:14:"REQUEST_METHOD";s:4:"POST";s:9:"X-LSCACHE";s:2:"on";s:8:"PHP_SELF";s:21:"/alhuda/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1607494392.838553905487060546875;s:12:"REQUEST_TIME";i:1607494392;s:4:"argv";a:0:{}s:4:"argc";i:0;}s:3:"GET";a:0:{}s:4:"POST";a:18:{s:5:"_csrf";s:88:"Tybd_nWimmzXzPLCdtioOyE2qGkPyRlxviY2lObaQnQWTpGnOdPIXLW9k_oSiMZuUUHeXzmmYR3WcUb6qbF7DQ==";s:8:"class-id";s:1:"4";s:8:"group-id";s:0:"";s:10:"section-id";s:2:"18";s:6:"stu_id";s:4:"2179";s:8:"Fromdate";s:10:"2020-12-01";s:6:"toDate";s:10:"2020-12-31";s:16:"sibling_discount";a:1:{i:1;s:3:"360";}s:11:"fee_head_id";a:1:{i:0;s:1:"1";}s:23:"transaction_head_amount";a:1:{i:1;s:4:"1400";}s:12:"headDiscount";a:1:{i:1;s:1:"0";}s:31:"transaction_head_arrears_amount";a:1:{i:1;s:4:"1480";}s:14:"StudentDisount";a:4:{s:26:"input_total_transport_fare";s:1:"0";s:23:"input_total_hostel_fare";s:1:"0";s:20:"input_total_discount";s:1:"0";s:26:"input_total_amount_payable";s:4:"2880";}s:36:"transaction_transport_arrears_amount";s:0:"";s:33:"transaction_hostel_arrears_amount";s:0:"";s:11:"StudentFine";a:1:{s:10:"absendFine";s:1:"0";}s:21:"FeeTransactionDetails";a:2:{s:20:"total_arrears_amount";s:4:"1480";s:18:"transaction_amount";s:4:"1400";}s:4:"diff";s:0:"";}s:6:"COOKIE";a:2:{s:9:"PHPSESSID";s:26:"qtk8ndmbes8vmlb87p8bsc25b4";s:5:"_csrf";s:130:"ee95c0b60f5ec381ec7fb92d09287483ba3518896aa1aee52ad63b9379987b0fa:2:{i:0;s:5:"_csrf";i:1;s:32:"YhLYLqR0bqa8dPnUpwv66oxlhWpnOk9y";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:4:{s:7:"__flash";a:1:{s:7:"success";i:-1;}s:11:"__returnUrl";s:30:"/alhuda/web/fee/fee-submission";s:4:"__id";i:1571;s:7:"success";s:26:"Fee Submitted Successfully";}}";s:3:"log";s:29834:"a:1:{s:8:"messages";a:55:{i:0;a:6:{i:0;s:55:"Bootstrap with johnitvn\ajaxcrud\Bootstrap::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1607494392.8405530452728271484375;i:4;a:0:{}i:5;i:997728;}i:1;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1607494392.8405649662017822265625;i:4;a:0:{}i:5;i:998552;}i:2;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1607494392.8407371044158935546875;i:4;a:0:{}i:5;i:1025232;}i:3;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1607494392.8407509326934814453125;i:4;a:0:{}i:5;i:1026232;}i:4;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1607494392.8421459197998046875;i:4;a:0:{}i:5;i:1445496;}i:7;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1607494392 AND `id`='qtk8ndmbes8vmlb87p8bsc25b4'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8434460163116455078125;i:4;a:0:{}i:5;i:1470208;}i:10;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1607494392.843781948089599609375;i:4;a:0:{}i:5;i:1464064;}i:11;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8443911075592041015625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1617488;}i:14;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.845304965972900390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1709616;}i:17;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1571) AND (`status`='active')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8458559513092041015625;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1716872;}i:20;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1607494392.846446990966796875;i:4;a:0:{}i:5;i:1741376;}i:21;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1607494392.846911907196044921875;i:4;a:0:{}i:5;i:1777296;}i:29;a:6:{i:0;s:33:"Route requested: 'fee/fee-submit'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1607494392.8472979068756103515625;i:4;a:0:{}i:5;i:1808048;}i:30;a:6:{i:0;s:28:"Route to run: fee/fee-submit";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1607494392.8475010395050048828125;i:4;a:0:{}i:5;i:1898240;}i:31;a:6:{i:0;s:64:"Running action: app\controllers\FeeController::actionFeeSubmit()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1607494392.847816944122314453125;i:4;a:0:{}i:5;i:1917360;}i:32;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8481090068817138671875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1953288;}i:35;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.853662967681884765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1965704;}i:38;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8542950153350830078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1979872;}i:41;a:6:{i:0;s:90:"UPDATE  fee_arears  SET status = 0 WHERE branch_id = 1 and fee_head_id =1 and stu_id =2179";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.854650974273681640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:503;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1974864;}i:44;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.9250209331512451171875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:509;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1984664;}i:47;a:6:{i:0;s:78:"UPDATE fee_submission  SET fee_status = 0 WHERE branch_id = 1 and stu_id =2179";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.928061008453369140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:515;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1985880;}i:50;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `fee_submission`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.07693004608154296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2011168;}i:53;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_submission' AND kcu.table_name = 'fee_submission'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0782549381256103515625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2028704;}i:56;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.07857799530029296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:544;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2031872;}i:59;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `fee_arears`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.081594944000244140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2055840;}i:62;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_arears' AND kcu.table_name = 'fee_arears'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.08203411102294921875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2069528;}i:65;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0822889804840087890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:575;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2078304;}i:68;a:6:{i:0;s:161:"INSERT INTO `fee_arears` (`stu_id`, `branch_id`, `fee_head_id`, `arears`, `date`, `from_date`, `status`) VALUES (2179, 1, 1, 1480, '2020-12-09', '2020-12-01', 1)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.085606098175048828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:581;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2195272;}i:71;a:6:{i:0;s:323:"INSERT INTO `fee_submission` (`stu_id`, `from_date`, `to_date`, `fee_status`, `branch_id`, `fee_head_id`, `head_recv_amount`, `absent_fine`, `transport_amount`, `hostel_amount`, `sibling_discount`, `year_month_interval`, `recv_date`) VALUES (2179, '2020-12', '2020-12', 1, 1, 1, 1400, 0, 0, 0, 360, '2020-12', '2020-12-09')";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.221931934356689453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:584;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2217840;}i:74;a:6:{i:0;s:37:"SELECT * FROM `fee_head` WHERE `id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4348080158233642578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2231576;}i:77;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `fee_head`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.43511104583740234375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2241592;}i:80;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_head' AND kcu.table_name = 'fee_head'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.435573101043701171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2256128;}i:83;a:6:{i:0;s:58:"SELECT * FROM `student_parents_info` WHERE `stu_id`='2179'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4359810352325439453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2272384;}i:86;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4361751079559326171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2284488;}i:89;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4367139339447021484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2309200;}i:92;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.437118053436279296875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2327512;}i:95;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4400188922882080078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2334808;}i:98;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.440289020538330078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2350040;}i:101;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4410989284515380859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2381840;}i:104;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2314";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.441402912139892578125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:595;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2383144;}i:107;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4417240619659423828125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2413128;}i:110;a:6:{i:0;s:47:"SELECT * FROM `settings` WHERE `fk_branch_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.444490909576416015625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2419824;}i:113;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `settings`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4446659088134765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2433064;}i:116;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'settings' AND kcu.table_name = 'settings'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4451920986175537109375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2458040;}i:119;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4455280303955078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2474856;}i:122;a:6:{i:0;s:51:"SELECT * FROM `sms_settings` WHERE `fk_branch_id`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4483048915863037109375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2479824;}i:125;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `sms_settings`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4484579563140869140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2489648;}i:128;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sms_settings' AND kcu.table_name = 'sms_settings'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.448802947998046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2503408;}i:131;a:6:{i:0;s:50:"SELECT * FROM `student_info` WHERE `stu_id`='2179'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4490439891815185546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:619;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:2508296;}i:134;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4492969512939453125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2520680;}i:137;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4522469043731689453125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2527976;}i:140;a:6:{i:0;s:100:"Access to debugger is denied due to IP address restriction. The requesting IP address is 39.33.96.86";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1607494393.452742099761962890625;i:4;a:0:{}i:5;i:2508760;}i:141;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.453013896942138671875;i:4;a:0:{}i:5;i:2262496;}i:144;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.54430294036865234375;i:4;a:0:{}i:5;i:2269992;}i:147;a:6:{i:0;s:420:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:1:{s:7:\"success\";i:-1;}__returnUrl|s:30:\"/alhuda/web/fee/fee-submission\";__id|i:1571;success|s:26:\"Fee Submitted Successfully\";', 1571, 1, 'qtk8ndmbes8vmlb87p8bsc25b4', 1608703993) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.5446441173553466796875;i:4;a:0:{}i:5;i:2273688;}}}";s:9:"profiling";s:55885:"a:3:{s:6:"memory";i:2563464;s:4:"time";d:0.7948448657989501953125;s:8:"messages";a:88:{i:5;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1607494392.8421790599822998046875;i:4;a:0:{}i:5;i:1445872;}i:6;a:6:{i:0;s:66:"Opening DB connection: mysql:host=localhost;dbname=onnviiod_alhuda";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1607494392.8431990146636962890625;i:4;a:0:{}i:5;i:1460792;}i:8;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1607494392 AND `id`='qtk8ndmbes8vmlb87p8bsc25b4'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.84348392486572265625;i:4;a:0:{}i:5;i:1470688;}i:9;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1607494392 AND `id`='qtk8ndmbes8vmlb87p8bsc25b4'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.843738079071044921875;i:4;a:0:{}i:5;i:1471568;}i:12;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8444149494171142578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1618904;}i:13;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8450620174407958984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1642064;}i:15;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.84533596038818359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1712224;}i:16;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8455960750579833984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1713944;}i:18;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1571) AND (`status`='active')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8458778858184814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1716872;}i:19;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1571) AND (`status`='active')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.846108913421630859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1721976;}i:33;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.848125934600830078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1956656;}i:34;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8535830974578857421875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1959544;}i:36;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.853681087493896484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1967712;}i:37;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.854218006134033203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1975472;}i:39;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.85430908203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1982992;}i:40;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.85457611083984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1985288;}i:42;a:6:{i:0;s:90:"UPDATE  fee_arears  SET status = 0 WHERE branch_id = 1 and fee_head_id =1 and stu_id =2179";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.85466289520263671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:503;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1976416;}i:43;a:6:{i:0;s:90:"UPDATE  fee_arears  SET status = 0 WHERE branch_id = 1 and fee_head_id =1 and stu_id =2179";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.924848079681396484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:503;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1977800;}i:45;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.92506504058837890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:509;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1986752;}i:46;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.927937030792236328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:509;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1989592;}i:48;a:6:{i:0;s:78:"UPDATE fee_submission  SET fee_status = 0 WHERE branch_id = 1 and stu_id =2179";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.928073883056640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:515;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1987400;}i:49;a:6:{i:0;s:78:"UPDATE fee_submission  SET fee_status = 0 WHERE branch_id = 1 and stu_id =2179";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.0767409801483154296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:515;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1988784;}i:51;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `fee_submission`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0769500732421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2012600;}i:52;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `fee_submission`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0781309604644775390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2031064;}i:54;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_submission' AND kcu.table_name = 'fee_submission'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0782721042633056640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2031248;}i:55;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_submission' AND kcu.table_name = 'fee_submission'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0784780979156494140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2032968;}i:57;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.078589916229248046875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:544;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2033960;}i:58;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0814020633697509765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:544;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2036848;}i:60;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `fee_arears`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.081614971160888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2057272;}i:61;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `fee_arears`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.08195400238037109375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2067248;}i:63;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_arears' AND kcu.table_name = 'fee_arears'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.082046985626220703125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2072072;}i:64;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_arears' AND kcu.table_name = 'fee_arears'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0822150707244873046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2073792;}i:66;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0822999477386474609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:575;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2080392;}i:67;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0850160121917724609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:575;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2083280;}i:69;a:6:{i:0;s:161:"INSERT INTO `fee_arears` (`stu_id`, `branch_id`, `fee_head_id`, `arears`, `date`, `from_date`, `status`) VALUES (2179, 1, 1, 1480, '2020-12-09', '2020-12-01', 1)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.0856211185455322265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:581;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2195504;}i:70;a:6:{i:0;s:161:"INSERT INTO `fee_arears` (`stu_id`, `branch_id`, `fee_head_id`, `arears`, `date`, `from_date`, `status`) VALUES (2179, 1, 1, 1480, '2020-12-09', '2020-12-01', 1)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.2214679718017578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:581;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2196840;}i:72;a:6:{i:0;s:323:"INSERT INTO `fee_submission` (`stu_id`, `from_date`, `to_date`, `fee_status`, `branch_id`, `fee_head_id`, `head_recv_amount`, `absent_fine`, `transport_amount`, `hostel_amount`, `sibling_discount`, `year_month_interval`, `recv_date`) VALUES (2179, '2020-12', '2020-12', 1, 1, 1, 1400, 0, 0, 0, 360, '2020-12', '2020-12-09')";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.221952915191650390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:584;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2216640;}i:73;a:6:{i:0;s:323:"INSERT INTO `fee_submission` (`stu_id`, `from_date`, `to_date`, `fee_status`, `branch_id`, `fee_head_id`, `head_recv_amount`, `absent_fine`, `transport_amount`, `hostel_amount`, `sibling_discount`, `year_month_interval`, `recv_date`) VALUES (2179, '2020-12', '2020-12', 1, 1, 1, 1400, 0, 0, 0, 360, '2020-12', '2020-12-09')";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.43451404571533203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:584;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2217976;}i:75;a:6:{i:0;s:37:"SELECT * FROM `fee_head` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4348380565643310546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2233088;}i:76;a:6:{i:0;s:37:"SELECT * FROM `fee_head` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4350559711456298828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2236168;}i:78;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `fee_head`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.435142040252685546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2243024;}i:79;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `fee_head`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4354870319366455078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2254552;}i:81;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_head' AND kcu.table_name = 'fee_head'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.43558788299560546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2258672;}i:82;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_head' AND kcu.table_name = 'fee_head'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.435802936553955078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2260392;}i:84;a:6:{i:0;s:58:"SELECT * FROM `student_parents_info` WHERE `stu_id`='2179'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4359920024871826171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2273960;}i:85;a:6:{i:0;s:58:"SELECT * FROM `student_parents_info` WHERE `stu_id`='2179'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.43613910675048828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2279800;}i:87;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4361860752105712890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2285944;}i:88;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4365789890289306640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2320384;}i:90;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.436726093292236328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2311744;}i:91;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4368889331817626953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2313464;}i:93;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.437129974365234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2330176;}i:94;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.439898014068603515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2333640;}i:96;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44003200531005859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2336728;}i:97;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4402511119842529296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2345560;}i:99;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4403049945831298828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2352048;}i:100;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4408071041107177734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2396920;}i:102;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4411180019378662109375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2384960;}i:103;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4412939548492431640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2387256;}i:105;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2314";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4414141178131103515625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:595;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2385208;}i:106;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2314";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44153690338134765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:595;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2390600;}i:108;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4417359828948974609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2415792;}i:109;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4444129467010498046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2419256;}i:111;a:6:{i:0;s:47:"SELECT * FROM `settings` WHERE `fk_branch_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4445030689239501953125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2421920;}i:112;a:6:{i:0;s:47:"SELECT * FROM `settings` WHERE `fk_branch_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.444632053375244140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2427600;}i:114;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `settings`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.444683074951171875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2435072;}i:115;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `settings`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44507694244384765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2459040;}i:117;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'settings' AND kcu.table_name = 'settings'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4452040195465087890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2461160;}i:118;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'settings' AND kcu.table_name = 'settings'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.445393085479736328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2463456;}i:120;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.445538043975830078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2476944;}i:121;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44822406768798828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2479832;}i:123;a:6:{i:0;s:51:"SELECT * FROM `sms_settings` WHERE `fk_branch_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4483149051666259765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2481344;}i:124;a:6:{i:0;s:51:"SELECT * FROM `sms_settings` WHERE `fk_branch_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4484260082244873046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2483864;}i:126;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `sms_settings`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4484679698944091796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2491080;}i:127;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `sms_settings`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44873809814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2500304;}i:129;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sms_settings' AND kcu.table_name = 'sms_settings'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4488179683685302734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2510048;}i:130;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sms_settings' AND kcu.table_name = 'sms_settings'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4489700794219970703125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2511768;}i:132;a:6:{i:0;s:50:"SELECT * FROM `student_info` WHERE `stu_id`='2179'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4490540027618408203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:619;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:2509848;}i:133;a:6:{i:0;s:50:"SELECT * FROM `student_info` WHERE `stu_id`='2179'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.449202060699462890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:619;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:2518104;}i:135;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4493129253387451171875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2523344;}i:136;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.452167987823486328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2526808;}i:138;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.45225811004638671875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2529896;}i:139;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.45240688323974609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2538728;}i:142;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4530289173126220703125;i:4;a:0:{}i:5;i:2267184;}i:143;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.54415988922119140625;i:4;a:0:{}i:5;i:2269520;}i:145;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.5443179607391357421875;i:4;a:0:{}i:5;i:2271104;}i:146;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.5444738864898681640625;i:4;a:0:{}i:5;i:2272680;}i:148;a:6:{i:0;s:420:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:1:{s:7:\"success\";i:-1;}__returnUrl|s:30:\"/alhuda/web/fee/fee-submission\";__id|i:1571;success|s:26:\"Fee Submitted Successfully\";', 1571, 1, 'qtk8ndmbes8vmlb87p8bsc25b4', 1608703993) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.54465198516845703125;i:4;a:0:{}i:5;i:2273888;}i:149;a:6:{i:0;s:420:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:1:{s:7:\"success\";i:-1;}__returnUrl|s:30:\"/alhuda/web/fee/fee-submission\";__id|i:1571;success|s:26:\"Fee Submitted Successfully\";', 1571, 1, 'qtk8ndmbes8vmlb87p8bsc25b4', 1608703993) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.63325595855712890625;i:4;a:0:{}i:5;i:2274272;}}}";s:2:"db";s:55432:"a:1:{s:8:"messages";a:86:{i:8;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1607494392 AND `id`='qtk8ndmbes8vmlb87p8bsc25b4'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.84348392486572265625;i:4;a:0:{}i:5;i:1470688;}i:9;a:6:{i:0;s:92:"SELECT `data` FROM `session` WHERE `expire`>1607494392 AND `id`='qtk8ndmbes8vmlb87p8bsc25b4'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.843738079071044921875;i:4;a:0:{}i:5;i:1471568;}i:12;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8444149494171142578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1618904;}i:13;a:6:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8450620174407958984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1642064;}i:15;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.84533596038818359375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1712224;}i:16;a:6:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8455960750579833984375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1713944;}i:18;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1571) AND (`status`='active')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8458778858184814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1716872;}i:19;a:6:{i:0;s:62:"SELECT * FROM `user` WHERE (`id`=1571) AND (`status`='active')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.846108913421630859375;i:4;a:1:{i:0;a:5:{s:4:"file";s:49:"/home/onnviiod/public_html/alhuda/models/User.php";s:4:"line";i:148;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:1721976;}i:33;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.848125934600830078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1956656;}i:34;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.8535830974578857421875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1959544;}i:36;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.853681087493896484375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1967712;}i:37;a:6:{i:0;s:32:"SHOW FULL COLUMNS FROM `session`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.854218006134033203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1975472;}i:39;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.85430908203125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1982992;}i:40;a:6:{i:0;s:615:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'session' AND kcu.table_name = 'session'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.85457611083984375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:502;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1985288;}i:42;a:6:{i:0;s:90:"UPDATE  fee_arears  SET status = 0 WHERE branch_id = 1 and fee_head_id =1 and stu_id =2179";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.85466289520263671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:503;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1976416;}i:43;a:6:{i:0;s:90:"UPDATE  fee_arears  SET status = 0 WHERE branch_id = 1 and fee_head_id =1 and stu_id =2179";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.924848079681396484375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:503;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1977800;}i:45;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.92506504058837890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:509;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1986752;}i:46;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494392.927937030792236328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:509;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:1989592;}i:48;a:6:{i:0;s:78:"UPDATE fee_submission  SET fee_status = 0 WHERE branch_id = 1 and stu_id =2179";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494392.928073883056640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:515;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1987400;}i:49;a:6:{i:0;s:78:"UPDATE fee_submission  SET fee_status = 0 WHERE branch_id = 1 and stu_id =2179";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.0767409801483154296875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:515;s:8:"function";s:7:"execute";s:5:"class";s:14:"yii\db\Command";s:4:"type";s:2:"->";}}i:5;i:1988784;}i:51;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `fee_submission`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0769500732421875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2012600;}i:52;a:6:{i:0;s:39:"SHOW FULL COLUMNS FROM `fee_submission`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0781309604644775390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2031064;}i:54;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_submission' AND kcu.table_name = 'fee_submission'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0782721042633056640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2031248;}i:55;a:6:{i:0;s:629:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_submission' AND kcu.table_name = 'fee_submission'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0784780979156494140625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:540;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2032968;}i:57;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.078589916229248046875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:544;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2033960;}i:58;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0814020633697509765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:544;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2036848;}i:60;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `fee_arears`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.081614971160888671875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2057272;}i:61;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `fee_arears`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.08195400238037109375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2067248;}i:63;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_arears' AND kcu.table_name = 'fee_arears'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.082046985626220703125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2072072;}i:64;a:6:{i:0;s:621:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_arears' AND kcu.table_name = 'fee_arears'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0822150707244873046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:574;s:8:"function";s:5:"__set";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2073792;}i:66;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0822999477386474609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:575;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2080392;}i:67;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.0850160121917724609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:575;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2083280;}i:69;a:6:{i:0;s:161:"INSERT INTO `fee_arears` (`stu_id`, `branch_id`, `fee_head_id`, `arears`, `date`, `from_date`, `status`) VALUES (2179, 1, 1, 1480, '2020-12-09', '2020-12-01', 1)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.0856211185455322265625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:581;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2195504;}i:70;a:6:{i:0;s:161:"INSERT INTO `fee_arears` (`stu_id`, `branch_id`, `fee_head_id`, `arears`, `date`, `from_date`, `status`) VALUES (2179, 1, 1, 1480, '2020-12-09', '2020-12-01', 1)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.2214679718017578125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:581;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2196840;}i:72;a:6:{i:0;s:323:"INSERT INTO `fee_submission` (`stu_id`, `from_date`, `to_date`, `fee_status`, `branch_id`, `fee_head_id`, `head_recv_amount`, `absent_fine`, `transport_amount`, `hostel_amount`, `sibling_discount`, `year_month_interval`, `recv_date`) VALUES (2179, '2020-12', '2020-12', 1, 1, 1, 1400, 0, 0, 0, 360, '2020-12', '2020-12-09')";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.221952915191650390625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:584;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2216640;}i:73;a:6:{i:0;s:323:"INSERT INTO `fee_submission` (`stu_id`, `from_date`, `to_date`, `fee_status`, `branch_id`, `fee_head_id`, `head_recv_amount`, `absent_fine`, `transport_amount`, `hostel_amount`, `sibling_discount`, `year_month_interval`, `recv_date`) VALUES (2179, '2020-12', '2020-12', 1, 1, 1, 1400, 0, 0, 0, 360, '2020-12', '2020-12-09')";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.43451404571533203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:584;s:8:"function";s:4:"save";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:2217976;}i:75;a:6:{i:0;s:37:"SELECT * FROM `fee_head` WHERE `id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4348380565643310546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2233088;}i:76;a:6:{i:0;s:37:"SELECT * FROM `fee_head` WHERE `id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4350559711456298828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2236168;}i:78;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `fee_head`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.435142040252685546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2243024;}i:79;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `fee_head`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4354870319366455078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2254552;}i:81;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_head' AND kcu.table_name = 'fee_head'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.43558788299560546875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2258672;}i:82;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'fee_head' AND kcu.table_name = 'fee_head'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.435802936553955078125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:588;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2260392;}i:84;a:6:{i:0;s:58:"SELECT * FROM `student_parents_info` WHERE `stu_id`='2179'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4359920024871826171875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2273960;}i:85;a:6:{i:0;s:58:"SELECT * FROM `student_parents_info` WHERE `stu_id`='2179'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.43613910675048828125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2279800;}i:87;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4361860752105712890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2285944;}i:88;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `student_parents_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4365789890289306640625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2320384;}i:90;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.436726093292236328125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2311744;}i:91;a:6:{i:0;s:641:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_parents_info' AND kcu.table_name = 'student_parents_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4368889331817626953125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:590;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2313464;}i:93;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.437129974365234375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2330176;}i:94;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.439898014068603515625;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2333640;}i:96;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44003200531005859375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2336728;}i:97;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4402511119842529296875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2345560;}i:99;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4403049945831298828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2352048;}i:100;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `student_info`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4408071041107177734375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2396920;}i:102;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4411180019378662109375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2384960;}i:103;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'student_info' AND kcu.table_name = 'student_info'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4412939548492431640625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:594;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2387256;}i:105;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2314";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4414141178131103515625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:595;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2385208;}i:106;a:6:{i:0;s:36:"SELECT * FROM `user` WHERE `id`=2314";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44153690338134765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:89;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:595;s:8:"function";s:7:"getName";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2390600;}i:108;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4417359828948974609375;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2415792;}i:109;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4444129467010498046875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2419256;}i:111;a:6:{i:0;s:47:"SELECT * FROM `settings` WHERE `fk_branch_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4445030689239501953125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2421920;}i:112;a:6:{i:0;s:47:"SELECT * FROM `settings` WHERE `fk_branch_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.444632053375244140625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2427600;}i:114;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `settings`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.444683074951171875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2435072;}i:115;a:6:{i:0;s:33:"SHOW FULL COLUMNS FROM `settings`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44507694244384765625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2459040;}i:117;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'settings' AND kcu.table_name = 'settings'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4452040195465087890625;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2461160;}i:118;a:6:{i:0;s:617:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'settings' AND kcu.table_name = 'settings'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.445393085479736328125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:382;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:600;s:8:"function";s:17:"getBranchSettings";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2463456;}i:120;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.445538043975830078125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2476944;}i:121;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44822406768798828125;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2479832;}i:123;a:6:{i:0;s:51:"SELECT * FROM `sms_settings` WHERE `fk_branch_id`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4483149051666259765625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2481344;}i:124;a:6:{i:0;s:51:"SELECT * FROM `sms_settings` WHERE `fk_branch_id`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4484260082244873046875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2483864;}i:126;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `sms_settings`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4484679698944091796875;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2491080;}i:127;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `sms_settings`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.44873809814453125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2500304;}i:129;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sms_settings' AND kcu.table_name = 'sms_settings'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4488179683685302734375;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2510048;}i:130;a:6:{i:0;s:625:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'sms_settings' AND kcu.table_name = 'sms_settings'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4489700794219970703125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:603;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:2511768;}i:132;a:6:{i:0;s:50:"SELECT * FROM `student_info` WHERE `stu_id`='2179'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4490540027618408203125;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:619;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:2509848;}i:133;a:6:{i:0;s:50:"SELECT * FROM `student_info` WHERE `stu_id`='2179'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.449202060699462890625;i:4;a:1:{i:0;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:619;s:8:"function";s:7:"findOne";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"::";}}i:5;i:2518104;}i:135;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4493129253387451171875;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2523344;}i:136;a:6:{i:0;s:44:"SELECT * FROM `session` WHERE `user_id`=1571";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.452167987823486328125;i:4;a:3:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:32;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:9:"getBranch";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2526808;}i:138;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.45225811004638671875;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2529896;}i:139;a:6:{i:0;s:75:"SELECT * FROM `student_info` WHERE (`fk_branch_id`=1) AND (`stu_id`='2179')";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.45240688323974609375;i:4;a:2:{i:0;a:5:{s:4:"file";s:61:"/home/onnviiod/public_html/alhuda/components/CommonHelper.php";s:4:"line";i:175;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:63:"/home/onnviiod/public_html/alhuda/controllers/FeeController.php";s:4:"line";i:620;s:8:"function";s:10:"getStudent";s:5:"class";s:27:"app\components\CommonHelper";s:4:"type";s:2:"::";}}i:5;i:2538728;}i:142;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.4530289173126220703125;i:4;a:0:{}i:5;i:2267184;}i:143;a:6:{i:0;s:1977:"SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    CASE
+        WHEN NULL IS NULL AND `kcu`.`REFERENCED_TABLE_SCHEMA` = DATABASE() THEN NULL
+        ELSE `kcu`.`REFERENCED_TABLE_SCHEMA`
+    END AS `foreign_table_schema`,
+    `kcu`.`REFERENCED_TABLE_NAME` AS `foreign_table_name`,
+    `kcu`.`REFERENCED_COLUMN_NAME` AS `foreign_column_name`,
+    `rc`.`UPDATE_RULE` AS `on_update`,
+    `rc`.`DELETE_RULE` AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`REFERENTIAL_CONSTRAINTS` AS `rc`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `kcu`.`TABLE_NAME` = 'session'
+    AND `rc`.`CONSTRAINT_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `rc`.`TABLE_NAME` = 'session' AND `rc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME`
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` = 'FOREIGN KEY'
+UNION
+SELECT
+    `kcu`.`CONSTRAINT_NAME` AS `name`,
+    `kcu`.`COLUMN_NAME` AS `column_name`,
+    `tc`.`CONSTRAINT_TYPE` AS `type`,
+    NULL AS `foreign_table_schema`,
+    NULL AS `foreign_table_name`,
+    NULL AS `foreign_column_name`,
+    NULL AS `on_update`,
+    NULL AS `on_delete`,
+    `kcu`.`ORDINAL_POSITION` AS `position`
+FROM
+    `information_schema`.`KEY_COLUMN_USAGE` AS `kcu`,
+    `information_schema`.`TABLE_CONSTRAINTS` AS `tc`
+WHERE
+    `kcu`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `kcu`.`TABLE_NAME` = 'session'
+    AND `tc`.`TABLE_SCHEMA` = `kcu`.`TABLE_SCHEMA` AND `tc`.`TABLE_NAME` = 'session' AND `tc`.`CONSTRAINT_NAME` = `kcu`.`CONSTRAINT_NAME` AND `tc`.`CONSTRAINT_TYPE` IN ('PRIMARY KEY', 'UNIQUE')
+ORDER BY `position` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.54415988922119140625;i:4;a:0:{}i:5;i:2269520;}i:145;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.5443179607391357421875;i:4;a:0:{}i:5;i:2271104;}i:146;a:6:{i:0;s:396:"SELECT
+    `s`.`INDEX_NAME` AS `name`,
+    `s`.`COLUMN_NAME` AS `column_name`,
+    `s`.`NON_UNIQUE` ^ 1 AS `index_is_unique`,
+    `s`.`INDEX_NAME` = 'PRIMARY' AS `index_is_primary`
+FROM `information_schema`.`STATISTICS` AS `s`
+WHERE `s`.`TABLE_SCHEMA` = COALESCE(NULL, DATABASE()) AND `s`.`INDEX_SCHEMA` = `s`.`TABLE_SCHEMA` AND `s`.`TABLE_NAME` = 'session'
+ORDER BY `s`.`SEQ_IN_INDEX` ASC";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1607494393.5444738864898681640625;i:4;a:0:{}i:5;i:2272680;}i:148;a:6:{i:0;s:420:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:1:{s:7:\"success\";i:-1;}__returnUrl|s:30:\"/alhuda/web/fee/fee-submission\";__id|i:1571;success|s:26:\"Fee Submitted Successfully\";', 1571, 1, 'qtk8ndmbes8vmlb87p8bsc25b4', 1608703993) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.54465198516845703125;i:4;a:0:{}i:5;i:2273888;}i:149;a:6:{i:0;s:420:"INSERT INTO `session` (`data`, `user_id`, `fk_branch_id`, `id`, `expire`) VALUES ('__flash|a:1:{s:7:\"success\";i:-1;}__returnUrl|s:30:\"/alhuda/web/fee/fee-submission\";__id|i:1571;success|s:26:\"Fee Submitted Successfully\";', 1571, 1, 'qtk8ndmbes8vmlb87p8bsc25b4', 1608703993) ON DUPLICATE KEY UPDATE `data`=VALUES(`data`), `user_id`=VALUES(`user_id`), `fk_branch_id`=VALUES(`fk_branch_id`), `expire`=VALUES(`expire`)";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1607494393.63325595855712890625;i:4;a:0:{}i:5;i:2274272;}}}";s:5:"event";s:13430:"a:72:{i:0;a:5:{s:4:"time";d:1607494392.84319210052490234375;s:4:"name";s:9:"afterOpen";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:17:"yii\db\Connection";}i:1;a:5:{s:4:"time";d:1607494392.8442609310150146484375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:2;a:5:{s:4:"time";d:1607494392.8462259769439697265625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:3;a:5:{s:4:"time";d:1607494392.8462688922882080078125;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:4;a:5:{s:4:"time";d:1607494392.8464009761810302734375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:5;a:5:{s:4:"time";d:1607494392.8470499515533447265625;s:4:"name";s:13:"beforeRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:6;a:5:{s:4:"time";d:1607494392.84755992889404296875;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:7;a:5:{s:4:"time";d:1607494392.8476049900054931640625;s:4:"name";s:12:"beforeAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\controllers\FeeController";}i:8;a:5:{s:4:"time";d:1607494392.8480451107025146484375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:9;a:5:{s:4:"time";d:1607494392.8536250591278076171875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:10;a:5:{s:4:"time";d:1607494392.8546149730682373046875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:11;a:5:{s:4:"time";d:1607494392.9249210357666015625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:12;a:5:{s:4:"time";d:1607494392.927978992462158203125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:13;a:5:{s:4:"time";d:1607494392.92801189422607421875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:14;a:5:{s:4:"time";d:1607494393.0768909454345703125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:24:"app\models\FeeSubmission";}i:15;a:5:{s:4:"time";d:1607494393.078525066375732421875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:16;a:5:{s:4:"time";d:1607494393.0814330577850341796875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:17;a:5:{s:4:"time";d:1607494393.0814568996429443359375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:18;a:5:{s:4:"time";d:1607494393.0815670490264892578125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"app\models\FeeArears";}i:19;a:5:{s:4:"time";d:1607494393.08224201202392578125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:20;a:5:{s:4:"time";d:1607494393.085033893585205078125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:21;a:5:{s:4:"time";d:1607494393.085052013397216796875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:22;a:5:{s:4:"time";d:1607494393.08512401580810546875;s:4:"name";s:14:"beforeValidate";s:5:"class";s:19:"yii\base\ModelEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"app\models\FeeArears";}i:23;a:5:{s:4:"time";d:1607494393.0855429172515869140625;s:4:"name";s:13:"afterValidate";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"app\models\FeeArears";}i:24;a:5:{s:4:"time";d:1607494393.0855519771575927734375;s:4:"name";s:12:"beforeInsert";s:5:"class";s:19:"yii\base\ModelEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"app\models\FeeArears";}i:25;a:5:{s:4:"time";d:1607494393.2216260433197021484375;s:4:"name";s:11:"afterInsert";s:5:"class";s:21:"yii\db\AfterSaveEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:20:"app\models\FeeArears";}i:26;a:5:{s:4:"time";d:1607494393.2216389179229736328125;s:4:"name";s:14:"beforeValidate";s:5:"class";s:19:"yii\base\ModelEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:24:"app\models\FeeSubmission";}i:27;a:5:{s:4:"time";d:1607494393.2218201160430908203125;s:4:"name";s:13:"afterValidate";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:24:"app\models\FeeSubmission";}i:28;a:5:{s:4:"time";d:1607494393.221827030181884765625;s:4:"name";s:12:"beforeInsert";s:5:"class";s:19:"yii\base\ModelEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:24:"app\models\FeeSubmission";}i:29;a:5:{s:4:"time";d:1607494393.4346220493316650390625;s:4:"name";s:11:"afterInsert";s:5:"class";s:21:"yii\db\AfterSaveEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:24:"app\models\FeeSubmission";}i:30;a:5:{s:4:"time";d:1607494393.43474102020263671875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:31;a:5:{s:4:"time";d:1607494393.435082912445068359375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\FeeHead";}i:32;a:5:{s:4:"time";d:1607494393.4358489513397216796875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\FeeHead";}i:33;a:5:{s:4:"time";d:1607494393.4359378814697265625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:34;a:5:{s:4:"time";d:1607494393.4361560344696044921875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\models\StudentParentsInfo";}i:35;a:5:{s:4:"time";d:1607494393.4369618892669677734375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\models\StudentParentsInfo";}i:36;a:5:{s:4:"time";d:1607494393.4370601177215576171875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:37;a:5:{s:4:"time";d:1607494393.43706989288330078125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:38;a:5:{s:4:"time";d:1607494393.43992900848388671875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:39;a:5:{s:4:"time";d:1607494393.4399509429931640625;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:40;a:5:{s:4:"time";d:1607494393.440268993377685546875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:41;a:5:{s:4:"time";d:1607494393.441339015960693359375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:42;a:5:{s:4:"time";d:1607494393.441360950469970703125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:43;a:5:{s:4:"time";d:1607494393.441565036773681640625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:44;a:5:{s:4:"time";d:1607494393.4415929317474365234375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:15:"app\models\User";}i:45;a:5:{s:4:"time";d:1607494393.441677093505859375;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:46;a:5:{s:4:"time";d:1607494393.441687107086181640625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:47;a:5:{s:4:"time";d:1607494393.4444320201873779296875;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:48;a:5:{s:4:"time";d:1607494393.444449901580810546875;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:49;a:5:{s:4:"time";d:1607494393.4446480274200439453125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"app\models\Settings";}i:50;a:5:{s:4:"time";d:1607494393.44542598724365234375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"app\models\Settings";}i:51;a:5:{s:4:"time";d:1607494393.44548511505126953125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:52;a:5:{s:4:"time";d:1607494393.4454929828643798828125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:53;a:5:{s:4:"time";d:1607494393.448246002197265625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:54;a:5:{s:4:"time";d:1607494393.4482629299163818359375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:55;a:5:{s:4:"time";d:1607494393.448441028594970703125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\SmsSettings";}i:56;a:5:{s:4:"time";d:1607494393.448996067047119140625;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\SmsSettings";}i:57;a:5:{s:4:"time";d:1607494393.449008941650390625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:58;a:5:{s:4:"time";d:1607494393.4492189884185791015625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:59;a:5:{s:4:"time";d:1607494393.4492490291595458984375;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:60;a:5:{s:4:"time";d:1607494393.4492590427398681640625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:61;a:5:{s:4:"time";d:1607494393.449265003204345703125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"yii\db\ActiveQuery";}i:62;a:5:{s:4:"time";d:1607494393.4521849155426025390625;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:63;a:5:{s:4:"time";d:1607494393.4522020816802978515625;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:18:"app\models\Session";}i:64;a:5:{s:4:"time";d:1607494393.452423095703125;s:4:"name";s:4:"init";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:65;a:5:{s:4:"time";d:1607494393.4524519443511962890625;s:4:"name";s:9:"afterFind";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:22:"app\models\StudentInfo";}i:66;a:5:{s:4:"time";d:1607494393.4526479244232177734375;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:29:"app\controllers\FeeController";}i:67;a:5:{s:4:"time";d:1607494393.4526588916778564453125;s:4:"name";s:11:"afterAction";s:5:"class";s:20:"yii\base\ActionEvent";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:68;a:5:{s:4:"time";d:1607494393.452663898468017578125;s:4:"name";s:12:"afterRequest";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:19:"yii\web\Application";}i:69;a:5:{s:4:"time";d:1607494393.45267009735107421875;s:4:"name";s:10:"beforeSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:70;a:5:{s:4:"time";d:1607494393.4527490139007568359375;s:4:"name";s:12:"afterPrepare";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}i:71;a:5:{s:4:"time";d:1607494393.4527719020843505859375;s:4:"name";s:9:"afterSend";s:5:"class";s:14:"yii\base\Event";s:8:"isStatic";s:1:"0";s:11:"senderClass";s:16:"yii\web\Response";}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:120:"a:3:{s:5:"start";d:1607494392.839353084564208984375;s:3:"end";d:1607494393.63467693328857421875;s:6:"memory";i:2563464;}";s:4:"user";s:2282:"a:5:{s:2:"id";i:1571;s:8:"identity";a:20:{s:2:"id";s:4:"1571";s:12:"fk_branch_id";s:1:"1";s:10:"first_name";s:15:"'NASIB ROUIDAR'";s:11:"middle_name";s:2:"''";s:9:"last_name";s:2:"''";s:8:"username";s:9:"'AMS-002'";s:5:"email";s:2:"''";s:8:"auth_key";s:34:"'ymuPVKX9bg3Xq-63PwvWF-6yAv4a1Syh'";s:13:"password_hash";s:62:"'$2y$13$tGFr92y7a/qjIY.iO80TpORhYEtQZB13/EElj1LVc2JKD.krosJZ.'";s:20:"password_reset_token";s:4:"null";s:4:"pass";s:4:"null";s:6:"avatar";s:4:"null";s:6:"status";s:8:"'active'";s:10:"fk_role_id";s:1:"5";s:15:"last_ip_address";s:4:"null";s:10:"last_login";s:4:"null";s:10:"created_at";s:21:"'2018-02-19 09:40:04'";s:10:"updated_at";s:21:"'2019-03-14 04:38:12'";s:12:"name_in_urdu";s:4:"null";s:5:"Image";s:12:"'images.jpg'";}s:10:"attributes";a:20:{i:0;a:2:{s:9:"attribute";s:2:"id";s:5:"label";s:2:"ID";}i:1;a:2:{s:9:"attribute";s:12:"fk_branch_id";s:5:"label";s:9:"Branch ID";}i:2;a:2:{s:9:"attribute";s:10:"first_name";s:5:"label";s:10:"First Name";}i:3;a:2:{s:9:"attribute";s:11:"middle_name";s:5:"label";s:11:"Middle Name";}i:4;a:2:{s:9:"attribute";s:9:"last_name";s:5:"label";s:9:"Last Name";}i:5;a:2:{s:9:"attribute";s:8:"username";s:5:"label";s:24:"Student Registration No.";}i:6;a:2:{s:9:"attribute";s:5:"email";s:5:"label";s:5:"Email";}i:7;a:2:{s:9:"attribute";s:8:"auth_key";s:5:"label";s:8:"Auth Key";}i:8;a:2:{s:9:"attribute";s:13:"password_hash";s:5:"label";s:13:"Password Hash";}i:9;a:2:{s:9:"attribute";s:20:"password_reset_token";s:5:"label";s:20:"Password Reset Token";}i:10;a:2:{s:9:"attribute";s:4:"pass";s:5:"label";s:4:"Pass";}i:11;a:2:{s:9:"attribute";s:6:"avatar";s:5:"label";s:6:"Avatar";}i:12;a:2:{s:9:"attribute";s:6:"status";s:5:"label";s:6:"Status";}i:13;a:2:{s:9:"attribute";s:10:"fk_role_id";s:5:"label";s:4:"Role";}i:14;a:2:{s:9:"attribute";s:15:"last_ip_address";s:5:"label";s:15:"Last Ip Address";}i:15;a:2:{s:9:"attribute";s:10:"last_login";s:5:"label";s:10:"Last Login";}i:16;a:2:{s:9:"attribute";s:10:"created_at";s:5:"label";s:10:"Created At";}i:17;a:2:{s:9:"attribute";s:10:"updated_at";s:5:"label";s:10:"Updated At";}i:18;a:2:{s:9:"attribute";s:12:"name_in_urdu";s:5:"label";s:22:"اردو میں نام";}i:19;a:2:{s:9:"attribute";s:5:"Image";s:5:"label";s:5:"Image";}}s:13:"rolesProvider";N;s:19:"permissionsProvider";N;}";s:6:"router";s:1553:"a:1:{s:8:"messages";a:7:{i:22;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1607494392.847177028656005859375;i:4;a:0:{}i:5;i:1804176;}i:23;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1607494392.84720706939697265625;i:4;a:0:{}i:5;i:1804968;}i:24;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1607494392.8472340106964111328125;i:4;a:0:{}i:5;i:1805800;}i:25;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1607494392.8472440242767333984375;i:4;a:0:{}i:5;i:1806584;}i:26;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1607494392.8472630977630615234375;i:4;a:0:{}i:5;i:1807416;}i:27;a:6:{i:0;a:3:{s:4:"rule";s:112:"<alias:index|home|error|login|dashboard|logout|index|signup|request-password-reset|reset-password|check-session>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1607494392.8472869396209716796875;i:4;a:0:{}i:5;i:1808328;}i:28;a:6:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1607494392.84728908538818359375;i:4;a:0:{}i:5;i:1808704;}}}";s:7:"summary";a:10:{s:3:"tag";s:13:"5fd06af8ceae1";s:3:"url";s:45:"http://33344450.com/alhuda/web/fee/fee-submit";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:11:"39.33.96.86";s:4:"time";d:1607494392.838553905487060546875;s:10:"statusCode";i:302;s:8:"sqlCount";i:43;s:9:"mailCount";i:0;s:9:"mailFiles";a:0:{}}s:10:"exceptions";a:0:{}}

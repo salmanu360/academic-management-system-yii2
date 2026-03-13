@@ -1,0 +1,192 @@
+.container{
+	width: 100%;
+	height: 600px;
+	background-color: #BFF7F5;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-right: 15px;
+	
+	padding-bottom: 0.2px;
+
+  background-position: center;
+  
+  background-size: auto;
+	
+}
+
+
+
+.title{
+	text-align: center;
+	
+	font-size: 14px;
+	float: left;
+	width: 100%;
+	margin-left: 2px;
+}
+
+/*.image{
+	height: 100px;
+	width: auto;
+	background-image: url("sas.png");
+	
+}*/
+
+.address{
+	text-align: center;
+	font-size: 13px;
+	margin-left: 15px;
+	margin-top: -25px;
+
+}
+
+
+
+.principal{
+	text-align: right;
+	margin-right: 50px;
+}
+
+
+.circle {
+  
+  
+  background-color: #FFF;
+  border-radius: 50%;
+  border: 5px groove #04B5CE;
+  margin-left: 30px;
+  margin-top: 20px;
+  background-image: url("image.png");
+  background-position: center;
+  background-size: cover;
+  
+}
+
+
+.container1{
+	background-color: #fff;
+	border-style: groove;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	margin-top: -20px;
+	padding-bottom: 20px;
+	border: 2px solid #04B5CE;
+	padding-left: 10px;
+	line-height: 28px;
+}
+
+.container2{
+	background-color: #fff;
+	border-style: groove;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	border: 2px solid #04B5CE;
+	line-height: 12px;
+	padding-left: 10px;
+}
+
+.admForm{
+	text-align: right;
+	padding: 30px;
+	margin-top: -40px;
+	
+	
+}
+
+label{
+    font-size: 10px;
+}
+
+hr { 
+  
+  	
+  
+  
+  margin-bottom: 0.9em;
+  
+  border-style: inset;
+  border-width: 1px;
+  overflow: visible;
+  border-color: #04B5CE;
+}
+
+.hr1 { 
+  float: right;
+  width: 37.5%;	
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  
+  border-style: inset;
+  border-width: 1px;
+}
+
+.heading{
+ height: 15px;
+ margin-bottom: 10px;
+  text-align: center;
+  
+  background-color: #FFF;
+  border-radius: 40px;
+  
+  border: 2px solid #04B5CE;
+  
+  
+  
+  
+}
+.txt{
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: -0.5px;
+	margin-bottom: -0.5px;
+}
+
+.rules{
+	margin: 18px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.columnDate{
+ float: left;
+ width: 50%;
+ 
+}
+
+.date{
+	margin-left: 40px;
+}
+
+.sign{
+	margin-right: 10px;
+}
+
+.columnSign{
+ float: right;
+ width: 50%;
+ 
+}
+
+
+/* Create three equal columns that floats next to each other */
+.row {
+  float: left;
+  width: 29.9%;
+  
+   / Should be removed. Only for demonstration /
+}
+
+/* Clear floats after the columns */
+.column:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.containerRules{
+	line-height: 16px;
+}
